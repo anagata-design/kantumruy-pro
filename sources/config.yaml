@@ -1,7 +1,14 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Kantumruy.glyphs
+  # - Rubik-Italic.glyphs
 axisOrder:
   - wght
-  - ital
-familyName: Rubik
+  # - ital
+familyName: Kantumruy
+instances:
+  Kantumruy-Thin.otf:
+    - coordinates:
+        wght: 16
+  Kantumruy-Regular.otf:
+    - coordinates:
+        wght: 80
