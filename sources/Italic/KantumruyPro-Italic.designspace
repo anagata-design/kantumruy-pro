@@ -48,7 +48,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Kantumruy Pro Extra Light Italic" familyname="Kantumruy Pro" stylename="Extra Light Italic" filename="instance_ufos/KantumruyPro-ExtraLightItalic.ufo" stylemapfamilyname="Kantumruy Pro Extra Light" stylemapstylename="italic">
+    <instance name="Kantumruy Pro ExtraLight Italic" familyname="Kantumruy Pro" stylename="ExtraLight Italic" filename="instance_ufos/KantumruyPro-ExtraLightItalic.ufo" stylemapfamilyname="Kantumruy Pro ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="36"/>
       </location>
@@ -76,19 +76,30 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Kantumruy Pro Semi Bold Italic" familyname="Kantumruy Pro" stylename="Semi Bold Italic" filename="instance_ufos/KantumruyPro-SemiBoldItalic.ufo" stylemapfamilyname="Kantumruy Pro Semi Bold" stylemapstylename="italic">
+    <instance name="Kantumruy Pro SemiBold Italic" familyname="Kantumruy Pro" stylename="SemiBold Italic" filename="instance_ufos/KantumruyPro-SemiBoldItalic.ufo" stylemapfamilyname="Kantumruy Pro SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Kantumruy Pro Bold Italic" familyname="Kantumruy Pro" stylename="Bold Italic" filename="instance_ufos/KantumruyPro-BoldItalic.ufo" stylemapfamilyname="Kantumruy Pro Bold" stylemapstylename="bold italic">
+    <instance name="Kantumruy Pro Bold Italic" familyname="Kantumruy Pro" stylename="Bold Italic" filename="instance_ufos/KantumruyPro-BoldItalic.ufo" stylemapfamilyname="Kantumruy Pro" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="170"/>
       </location>
       <kerning/>
       <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>New Parameter</string>
+              <string>New Value</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
     </instance>
   </instances>
   <lib>

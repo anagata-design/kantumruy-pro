@@ -48,7 +48,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Kantumruy Pro Extra Light" familyname="Kantumruy Pro" stylename="Extra Light" filename="instance_ufos/KantumruyPro-ExtraLight.ufo" stylemapfamilyname="Kantumruy Pro Extra Light" stylemapstylename="regular">
+    <instance name="Kantumruy Pro ExtraLight" familyname="Kantumruy Pro" stylename="ExtraLight" filename="instance_ufos/KantumruyPro-ExtraLight.ufo" stylemapfamilyname="Kantumruy Pro ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="36"/>
       </location>
@@ -76,7 +76,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Kantumruy Pro Semi Bold" familyname="Kantumruy Pro" stylename="Semi Bold" filename="instance_ufos/KantumruyPro-SemiBold.ufo" stylemapfamilyname="Kantumruy Pro Semi Bold" stylemapstylename="regular">
+    <instance name="Kantumruy Pro SemiBold" familyname="Kantumruy Pro" stylename="SemiBold" filename="instance_ufos/KantumruyPro-SemiBold.ufo" stylemapfamilyname="Kantumruy Pro SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
