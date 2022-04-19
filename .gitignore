@@ -6,6 +6,7 @@ fonts
 node_modules
 package-lock.json
 package.json
+instance_ufos
 
 # OS generated files #
 ######################
