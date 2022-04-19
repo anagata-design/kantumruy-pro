@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="toandakhiat-khmer" format="2">
+  <unicode hex="17CD"/>
+  <anchor x="-87" y="594" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-280" y="666" type="curve" smooth="yes"/>
+      <point x="-265" y="666"/>
+      <point x="-249" y="668"/>
+      <point x="-241" y="672" type="curve"/>
+      <point x="-241" y="725" type="line"/>
+      <point x="-249" y="721"/>
+      <point x="-263" y="718"/>
+      <point x="-275" y="718" type="curve" smooth="yes"/>
+      <point x="-297" y="718"/>
+      <point x="-312" y="734"/>
+      <point x="-312" y="758" type="curve" smooth="yes"/>
+      <point x="-312" y="784"/>
+      <point x="-296" y="801"/>
+      <point x="-269" y="801" type="curve"/>
+      <point x="-267" y="801" type="line"/>
+      <point x="-206" y="764" type="line"/>
+      <point x="-188" y="764" type="line"/>
+      <point x="-139" y="764"/>
+      <point x="-109" y="799"/>
+      <point x="-100" y="868" type="curve"/>
+      <point x="-166" y="868" type="line"/>
+      <point x="-170" y="829"/>
+      <point x="-180" y="811"/>
+      <point x="-194" y="811" type="curve"/>
+      <point x="-196" y="811" type="line"/>
+      <point x="-257" y="852" type="line"/>
+      <point x="-279" y="852" type="line"/>
+      <point x="-337" y="852"/>
+      <point x="-378" y="813"/>
+      <point x="-378" y="756" type="curve" smooth="yes"/>
+      <point x="-378" y="701"/>
+      <point x="-340" y="666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

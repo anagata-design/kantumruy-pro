@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="526"/>
+  <unicode hex="004B"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="454" y="0" name="ogonek"/>
+  <anchor x="397" y="660" name="top"/>
+  <outline>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="109" y="233" type="line"/>
+      <point x="282" y="385" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="296" y="397" type="line"/>
+      <point x="598" y="660" type="line"/>
+      <point x="572" y="660" type="line"/>
+      <point x="115" y="260" type="line"/>
+      <point x="208" y="660" type="line"/>
+      <point x="192" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

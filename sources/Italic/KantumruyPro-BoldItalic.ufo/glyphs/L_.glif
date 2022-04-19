@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="594"/>
+  <unicode hex="004C"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="401" y="376" name="center"/>
+  <anchor x="509" y="0" name="ogonek"/>
+  <anchor x="253" y="660" name="top"/>
+  <anchor x="472" y="660" name="topright"/>
+  <outline>
+    <contour>
+      <point x="218" y="133" type="line"/>
+      <point x="339" y="660" type="line"/>
+      <point x="167" y="660" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="541" y="133" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

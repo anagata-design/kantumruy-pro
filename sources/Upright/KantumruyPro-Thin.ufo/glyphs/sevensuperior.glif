@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensuperior" format="2">
+  <advance width="314"/>
+  <unicode hex="2077"/>
+  <anchor x="154" y="543" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="122" y="333" type="curve"/>
+      <point x="137" y="333" type="line"/>
+      <point x="137" y="485"/>
+      <point x="197" y="611"/>
+      <point x="294" y="716" type="curve"/>
+      <point x="294" y="730" type="line"/>
+      <point x="16" y="730" type="line"/>
+      <point x="16" y="716" type="line"/>
+      <point x="274" y="716" type="line"/>
+      <point x="177" y="607"/>
+      <point x="122" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

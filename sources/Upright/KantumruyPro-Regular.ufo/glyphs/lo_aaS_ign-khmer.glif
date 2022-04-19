@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lo_aaSign-khmer" format="2">
+  <advance width="1252"/>
+  <anchor x="625" y="0" name="bottom"/>
+  <anchor x="810" y="0" name="bottomright"/>
+  <anchor x="625" y="594" name="top"/>
+  <anchor x="820" y="594" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1070" y="444" type="curve" smooth="yes"/>
+      <point x="1070" y="0" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="1140" y="444" type="line" smooth="yes"/>
+      <point x="1140" y="544"/>
+      <point x="1091" y="594"/>
+      <point x="991" y="594" type="curve" smooth="yes"/>
+      <point x="814" y="594" type="line"/>
+      <point x="814" y="530" type="line"/>
+      <point x="991" y="530" type="line" smooth="yes"/>
+      <point x="1044" y="530"/>
+      <point x="1070" y="501"/>
+    </contour>
+    <component base="lo-khmer"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lo-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaSign-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

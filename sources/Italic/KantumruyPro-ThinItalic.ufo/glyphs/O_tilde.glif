@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="685"/>
+  <unicode hex="00D5"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="361" y="330" name="center"/>
+  <anchor x="376" y="-6" name="ogonek"/>
+  <anchor x="442" y="819" name="top"/>
+  <anchor x="103" y="660" name="topleft"/>
+  <anchor x="567" y="660" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="363" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

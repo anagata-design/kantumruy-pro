@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beyyal-khmer" format="2">
+  <advance width="2166"/>
+  <unicode hex="17D8"/>
+  <anchor x="1254" y="0" name="bottom"/>
+  <anchor x="1486" y="0" name="bottomright"/>
+  <anchor x="1254" y="606" name="top"/>
+  <anchor x="1496" y="606" name="topright"/>
+  <outline>
+    <component base="khan-khmer"/>
+    <component base="lo-khmer" xOffset="618"/>
+    <component base="khan-khmer" xOffset="1548"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>khan-khmer</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khan-khmer</string>
+    </dict>
+  </lib>
+</glyph>

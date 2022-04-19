@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde" format="2">
+  <advance width="619"/>
+  <unicode hex="00C3"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="539" y="0" name="ogonek"/>
+  <anchor x="436" y="853" name="top"/>
+  <anchor x="374" y="539" name="top_ring"/>
+  <outline>
+    <component base="A"/>
+    <component base="tildecomb" xOffset="346" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

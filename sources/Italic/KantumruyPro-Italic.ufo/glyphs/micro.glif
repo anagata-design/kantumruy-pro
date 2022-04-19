@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="600"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="-19" y="-210" type="line"/>
+      <point x="53" y="-210" type="line"/>
+      <point x="115" y="58" type="line"/>
+      <point x="115" y="58" type="line"/>
+      <point x="139" y="11"/>
+      <point x="188" y="-8"/>
+      <point x="236" y="-8" type="curve" smooth="yes"/>
+      <point x="302" y="-8"/>
+      <point x="359" y="21"/>
+      <point x="393" y="78" type="curve"/>
+      <point x="380" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="559" y="500" type="line"/>
+      <point x="487" y="500" type="line"/>
+      <point x="425" y="232" type="line" smooth="yes"/>
+      <point x="399" y="119"/>
+      <point x="339" y="55"/>
+      <point x="248" y="55" type="curve" smooth="yes"/>
+      <point x="173" y="55"/>
+      <point x="127" y="104"/>
+      <point x="149" y="202" type="curve" smooth="yes"/>
+      <point x="217" y="500" type="line"/>
+      <point x="145" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

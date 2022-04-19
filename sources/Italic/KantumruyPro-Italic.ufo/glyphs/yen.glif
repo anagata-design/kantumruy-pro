@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="584"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="291" y="110" type="line"/>
+      <point x="463" y="110" type="line"/>
+      <point x="474" y="160" type="line"/>
+      <point x="303" y="160" type="line"/>
+      <point x="321" y="239" type="line"/>
+      <point x="492" y="239" type="line"/>
+      <point x="505" y="294" type="line"/>
+      <point x="393" y="294" type="line"/>
+      <point x="354" y="289" type="line"/>
+      <point x="644" y="660" type="line"/>
+      <point x="558" y="660" type="line"/>
+      <point x="369" y="404" type="line"/>
+      <point x="313" y="315" type="line"/>
+      <point x="311" y="315" type="line"/>
+      <point x="287" y="402" type="line"/>
+      <point x="204" y="660" type="line"/>
+      <point x="131" y="660" type="line"/>
+      <point x="257" y="290" type="line"/>
+      <point x="212" y="294" type="line"/>
+      <point x="101" y="294" type="line"/>
+      <point x="88" y="239" type="line"/>
+      <point x="258" y="239" type="line"/>
+      <point x="240" y="160" type="line"/>
+      <point x="70" y="160" type="line"/>
+      <point x="58" y="110" type="line"/>
+      <point x="228" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>660</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kakabat-khmer.small" format="2">
+  <anchor x="-39" y="752" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-60" y="780" type="line"/>
+      <point x="-6" y="780" type="line"/>
+      <point x="8" y="839" type="line"/>
+      <point x="80" y="839" type="line"/>
+      <point x="91" y="889" type="line"/>
+      <point x="19" y="889" type="line"/>
+      <point x="33" y="948" type="line"/>
+      <point x="-21" y="948" type="line"/>
+      <point x="-35" y="889" type="line"/>
+      <point x="-107" y="889" type="line"/>
+      <point x="-118" y="839" type="line"/>
+      <point x="-46" y="839" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

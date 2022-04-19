@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="do_auSign-khmer" format="2">
+  <advance width="928"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="472" y="0" name="bottomright"/>
+  <anchor x="381" y="617" name="top"/>
+  <anchor x="615" y="617" name="topright"/>
+  <outline>
+    <contour>
+      <point x="743" y="504" type="line"/>
+      <point x="763" y="504" type="line"/>
+      <point x="838" y="527"/>
+      <point x="924" y="585"/>
+      <point x="935" y="634" type="curve"/>
+      <point x="958" y="734" type="line" smooth="yes"/>
+      <point x="972" y="795"/>
+      <point x="946" y="824"/>
+      <point x="879" y="824" type="curve" smooth="yes"/>
+      <point x="757" y="824" type="line"/>
+      <point x="733" y="720" type="line"/>
+      <point x="769" y="720" type="line" smooth="yes"/>
+      <point x="785" y="720"/>
+      <point x="791" y="712"/>
+      <point x="787" y="696" type="curve" smooth="yes"/>
+    </contour>
+    <component base="do_aaSign-khmer"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>do-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>auSign-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

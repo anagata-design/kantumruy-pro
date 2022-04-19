@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
+  <advance width="379"/>
+  <unicode hex="00B3"/>
+  <anchor x="183" y="530" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="194" y="735" type="curve" smooth="yes"/>
+      <point x="101" y="735"/>
+      <point x="33" y="696"/>
+      <point x="19" y="623" type="curve"/>
+      <point x="128" y="591" type="line"/>
+      <point x="133" y="626"/>
+      <point x="153" y="641"/>
+      <point x="182" y="641" type="curve" smooth="yes"/>
+      <point x="210" y="641"/>
+      <point x="226" y="627"/>
+      <point x="226" y="600" type="curve" smooth="yes"/>
+      <point x="226" y="573"/>
+      <point x="208" y="559"/>
+      <point x="175" y="559" type="curve" smooth="yes"/>
+      <point x="171" y="559"/>
+      <point x="165" y="559"/>
+      <point x="160" y="560" type="curve"/>
+      <point x="160" y="495" type="line"/>
+      <point x="166" y="496"/>
+      <point x="172" y="496"/>
+      <point x="177" y="496" type="curve" smooth="yes"/>
+      <point x="213" y="496"/>
+      <point x="233" y="486"/>
+      <point x="233" y="459" type="curve" smooth="yes"/>
+      <point x="233" y="433"/>
+      <point x="214" y="416"/>
+      <point x="183" y="416" type="curve" smooth="yes"/>
+      <point x="148" y="416"/>
+      <point x="128" y="433"/>
+      <point x="123" y="469" type="curve"/>
+      <point x="9" y="434" type="line"/>
+      <point x="27" y="366"/>
+      <point x="84" y="327"/>
+      <point x="180" y="327" type="curve" smooth="yes"/>
+      <point x="281" y="327"/>
+      <point x="355" y="373"/>
+      <point x="355" y="445" type="curve" smooth="yes"/>
+      <point x="355" y="499"/>
+      <point x="320" y="529"/>
+      <point x="263" y="530" type="curve"/>
+      <point x="263" y="533" type="line"/>
+      <point x="312" y="536"/>
+      <point x="347" y="568"/>
+      <point x="347" y="622" type="curve" smooth="yes"/>
+      <point x="347" y="693"/>
+      <point x="291" y="735"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>32</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>25</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>45</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

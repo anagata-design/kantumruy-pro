@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttha-khmer.below" format="2">
+  <anchor x="-296" y="0" name="_bottom"/>
+  <anchor x="-296" y="-258" name="bottom"/>
+  <anchor x="-120" y="-258" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="-390" y="-262" type="curve" smooth="yes"/>
+      <point x="-377" y="-262" type="line"/>
+      <point x="-267" y="-183" type="line"/>
+      <point x="-320" y="-188" type="line"/>
+      <point x="-184" y="-258" type="line"/>
+      <point x="-120" y="-258" type="line"/>
+      <point x="-120" y="-83" type="line"/>
+      <point x="-184" y="-83" type="line"/>
+      <point x="-184" y="-205" type="line"/>
+      <point x="-296" y="-150" type="line"/>
+      <point x="-384" y="-212" type="line"/>
+      <point x="-408" y="-212"/>
+      <point x="-422" y="-193"/>
+      <point x="-422" y="-160" type="curve" smooth="yes"/>
+      <point x="-422" y="-129"/>
+      <point x="-402" y="-110"/>
+      <point x="-373" y="-110" type="curve" smooth="yes"/>
+      <point x="-84" y="-110" type="line"/>
+      <point x="-84" y="-60" type="line"/>
+      <point x="-373" y="-60" type="line" smooth="yes"/>
+      <point x="-444" y="-60"/>
+      <point x="-488" y="-94"/>
+      <point x="-488" y="-163" type="curve" smooth="yes"/>
+      <point x="-488" y="-225"/>
+      <point x="-455" y="-262"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

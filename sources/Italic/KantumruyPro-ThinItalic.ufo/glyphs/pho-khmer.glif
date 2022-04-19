@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pho-khmer" format="2">
+  <advance width="594"/>
+  <unicode hex="1797"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="422" y="0" name="bottomright"/>
+  <anchor x="370" y="592" name="top"/>
+  <anchor x="559" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="88" y="-6" type="curve" smooth="yes"/>
+      <point x="102" y="-6"/>
+      <point x="117" y="3"/>
+      <point x="127" y="46" type="curve" smooth="yes"/>
+      <point x="150" y="144"/>
+      <point x="106" y="197"/>
+      <point x="134" y="316" type="curve" smooth="yes"/>
+      <point x="153" y="399"/>
+      <point x="224" y="462"/>
+      <point x="335" y="462" type="curve" smooth="yes"/>
+      <point x="445" y="462"/>
+      <point x="499" y="399"/>
+      <point x="473" y="288" type="curve" smooth="yes"/>
+      <point x="406" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="489" y="288" type="line" smooth="yes"/>
+      <point x="517" y="409"/>
+      <point x="456" y="478"/>
+      <point x="335" y="478" type="curve" smooth="yes"/>
+      <point x="213" y="478"/>
+      <point x="139" y="409"/>
+      <point x="117" y="316" type="curve" smooth="yes"/>
+      <point x="89" y="194"/>
+      <point x="133" y="140"/>
+      <point x="111" y="45" type="curve" smooth="yes"/>
+      <point x="106" y="23"/>
+      <point x="100" y="13"/>
+      <point x="92" y="5" type="curve"/>
+      <point x="90" y="5" type="line"/>
+      <point x="63" y="19"/>
+      <point x="45" y="56"/>
+      <point x="54" y="115" type="curve"/>
+      <point x="39" y="111" type="line"/>
+      <point x="27" y="47"/>
+      <point x="55" y="-6"/>
+    </contour>
+    <contour>
+      <point x="173" y="576" type="line"/>
+      <point x="559" y="576" type="line"/>
+      <point x="563" y="592" type="line"/>
+      <point x="177" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

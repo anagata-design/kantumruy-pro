@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emptyset" format="2">
+  <advance width="797"/>
+  <unicode hex="2205"/>
+  <outline>
+    <contour>
+      <point x="94" y="-9" type="line"/>
+      <point x="750" y="660" type="line"/>
+      <point x="740" y="670" type="line"/>
+      <point x="84" y="1" type="line"/>
+    </contour>
+    <component base="whiteCircle" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteCircle</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

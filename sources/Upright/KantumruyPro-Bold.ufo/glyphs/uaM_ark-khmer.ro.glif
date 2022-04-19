@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uaMark-khmer.ro" format="2">
+  <anchor x="-158" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-444" y="-258" type="line"/>
+      <point x="-335" y="-258" type="line"/>
+      <point x="-282" y="-203" type="line"/>
+      <point x="-229" y="-258" type="line"/>
+      <point x="-100" y="-258" type="line"/>
+      <point x="-100" y="-50" type="line"/>
+      <point x="-246" y="-50" type="line"/>
+      <point x="-246" y="-156" type="line"/>
+      <point x="-282" y="-118" type="line"/>
+      <point x="-319" y="-156" type="line"/>
+      <point x="-319" y="-50" type="line"/>
+      <point x="-444" y="-50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

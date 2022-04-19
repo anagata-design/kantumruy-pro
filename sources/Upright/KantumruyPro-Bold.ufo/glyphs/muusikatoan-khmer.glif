@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muusikatoan-khmer" format="2">
+  <unicode hex="17C9"/>
+  <anchor x="-265" y="606" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-430" y="670" type="line"/>
+      <point x="-298" y="670" type="line"/>
+      <point x="-298" y="868" type="line"/>
+      <point x="-430" y="868" type="line"/>
+    </contour>
+    <contour>
+      <point x="-232" y="670" type="line"/>
+      <point x="-100" y="670" type="line"/>
+      <point x="-100" y="868" type="line"/>
+      <point x="-232" y="868" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

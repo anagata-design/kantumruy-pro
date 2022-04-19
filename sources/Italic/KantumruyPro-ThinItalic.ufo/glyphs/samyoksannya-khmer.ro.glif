@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="samyoksannya-khmer.ro" format="2">
+  <anchor x="-33" y="592" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-164" y="684" type="curve" smooth="yes"/>
+      <point x="-80" y="684"/>
+      <point x="9" y="746"/>
+      <point x="40" y="880" type="curve"/>
+      <point x="24" y="880" type="line"/>
+      <point x="-3" y="765"/>
+      <point x="-78" y="700"/>
+      <point x="-164" y="700" type="curve" smooth="yes"/>
+      <point x="-226" y="700"/>
+      <point x="-244" y="736"/>
+      <point x="-234" y="780" type="curve" smooth="yes"/>
+      <point x="-224" y="823"/>
+      <point x="-194" y="842"/>
+      <point x="-162" y="842" type="curve" smooth="yes"/>
+      <point x="-146" y="842"/>
+      <point x="-132" y="837"/>
+      <point x="-124" y="833" type="curve"/>
+      <point x="-120" y="850" type="line"/>
+      <point x="-126" y="853"/>
+      <point x="-142" y="858"/>
+      <point x="-161" y="858" type="curve" smooth="yes"/>
+      <point x="-204" y="858"/>
+      <point x="-239" y="828"/>
+      <point x="-250" y="782" type="curve" smooth="yes"/>
+      <point x="-264" y="722"/>
+      <point x="-229" y="684"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

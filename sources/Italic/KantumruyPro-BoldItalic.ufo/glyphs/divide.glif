@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="623"/>
+  <unicode hex="00F7"/>
+  <anchor x="195.197" y="98.41" name="_center"/>
+  <outline>
+    <contour>
+      <point x="595" y="386" type="line"/>
+      <point x="91" y="386" type="line"/>
+      <point x="63" y="264" type="line"/>
+      <point x="567" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="275.754" y="28.658" type="curve" smooth="yes"/>
+      <point x="331.191" y="28.658"/>
+      <point x="365.839" y="65.37"/>
+      <point x="365.839" y="123.191" type="curve" smooth="yes"/>
+      <point x="365.839" y="168.163"/>
+      <point x="333.789" y="193.862"/>
+      <point x="285.282" y="193.862" type="curve" smooth="yes"/>
+      <point x="228.979" y="193.862"/>
+      <point x="195.197" y="156.232"/>
+      <point x="195.197" y="98.41" type="curve" smooth="yes"/>
+      <point x="195.197" y="53.438"/>
+      <point x="227.247" y="28.658"/>
+    </contour>
+    <contour>
+      <point x="375.754" y="458.658" type="curve" smooth="yes"/>
+      <point x="431.191" y="458.658"/>
+      <point x="465.839" y="495.37"/>
+      <point x="465.839" y="553.191" type="curve" smooth="yes"/>
+      <point x="465.839" y="598.163"/>
+      <point x="433.789" y="623.862"/>
+      <point x="385.282" y="623.862" type="curve" smooth="yes"/>
+      <point x="328.979" y="623.862"/>
+      <point x="295.197" y="586.232"/>
+      <point x="295.197" y="528.41" type="curve" smooth="yes"/>
+      <point x="295.197" y="483.438"/>
+      <point x="327.247" y="458.658"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>36</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>466</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

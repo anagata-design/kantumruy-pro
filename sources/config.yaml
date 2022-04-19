@@ -1,14 +1,6 @@
 sources:
-  - Kantumruy.glyphs
-  # - Rubik-Italic.glyphs
+  - Upright/KantumruyPro-Upright.designspace
+  - Italic/KantumruyPro-Italic.designspace
 axisOrder:
   - wght
-  # - ital
-familyName: Kantumruy
-instances:
-  Kantumruy-Thin.otf:
-    - coordinates:
-        wght: 16
-  Kantumruy-Regular.otf:
-    - coordinates:
-        wght: 80
+familyName: Kantumruy Pro

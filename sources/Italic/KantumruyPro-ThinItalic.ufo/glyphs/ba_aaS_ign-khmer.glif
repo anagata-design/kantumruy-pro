@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ba_aaSign-khmer" format="2">
+  <advance width="904"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="422" y="0" name="bottomright"/>
+  <anchor x="367" y="592" name="top"/>
+  <anchor x="553" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="813" y="472" type="curve" smooth="yes"/>
+      <point x="704" y="-2" type="line"/>
+      <point x="720" y="-2" type="line"/>
+      <point x="829" y="472" type="line" smooth="yes"/>
+      <point x="847" y="552"/>
+      <point x="818" y="592"/>
+      <point x="738" y="592" type="curve" smooth="yes"/>
+      <point x="553" y="592" type="line"/>
+      <point x="549" y="576" type="line"/>
+      <point x="734" y="576" type="line" smooth="yes"/>
+      <point x="803" y="576"/>
+      <point x="829" y="542"/>
+    </contour>
+    <contour>
+      <point x="191" y="-10" type="curve" smooth="yes"/>
+      <point x="332" y="-10"/>
+      <point x="438" y="109"/>
+      <point x="475" y="238" type="curve"/>
+      <point x="464" y="240" type="line"/>
+      <point x="428" y="121"/>
+      <point x="330" y="6"/>
+      <point x="195" y="6" type="curve" smooth="yes"/>
+      <point x="105" y="6"/>
+      <point x="74" y="58"/>
+      <point x="95" y="150" type="curve" smooth="yes"/>
+      <point x="166" y="458" type="line" smooth="yes"/>
+      <point x="172" y="483"/>
+      <point x="169" y="505"/>
+      <point x="152" y="523" type="curve"/>
+      <point x="155" y="538" type="line" smooth="yes"/>
+      <point x="161" y="569"/>
+      <point x="183" y="576"/>
+      <point x="206" y="576" type="curve" smooth="yes"/>
+      <point x="559" y="576" type="line"/>
+      <point x="563" y="592" type="line"/>
+      <point x="208" y="592" type="line" smooth="yes"/>
+      <point x="177" y="592"/>
+      <point x="149" y="581"/>
+      <point x="141" y="544" type="curve" smooth="yes"/>
+      <point x="135" y="516" type="line"/>
+      <point x="154" y="496"/>
+      <point x="155" y="481"/>
+      <point x="150" y="458" type="curve" smooth="yes"/>
+      <point x="79" y="150" type="line" smooth="yes"/>
+      <point x="55" y="48"/>
+      <point x="92" y="-10"/>
+    </contour>
+    <contour>
+      <point x="406" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="515" y="400" type="line"/>
+      <point x="499" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ca-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaSign-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

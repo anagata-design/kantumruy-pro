@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="475"/>
+  <unicode hex="0076"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="218" y="0" name="ogonek"/>
+  <anchor x="296" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="444" y="500" type="line"/>
+      <point x="184" y="58" type="line"/>
+      <point x="202" y="54" type="line"/>
+      <point x="137" y="500" type="line"/>
+      <point x="66" y="500" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="525" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>500</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

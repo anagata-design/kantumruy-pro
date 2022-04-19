@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mo-khmer.below" format="2">
+  <anchor x="-359" y="0" name="_bottom"/>
+  <anchor x="-419" y="-258" name="bottom"/>
+  <anchor x="-229" y="-258" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="-287" y="-262" type="curve" smooth="yes"/>
+      <point x="-241" y="-262"/>
+      <point x="-214" y="-237"/>
+      <point x="-203" y="-190" type="curve" smooth="yes"/>
+      <point x="-194" y="-150"/>
+      <point x="-215" y="-124"/>
+      <point x="-256" y="-124" type="curve"/>
+      <point x="-274" y="-124" type="line"/>
+      <point x="-254" y="-134" type="line"/>
+      <point x="-237" y="-60" type="line"/>
+      <point x="-305" y="-60" type="line"/>
+      <point x="-342" y="-221" type="line" smooth="yes"/>
+      <point x="-348" y="-246"/>
+      <point x="-329" y="-262"/>
+    </contour>
+    <contour>
+      <point x="-278" y="-221" type="curve"/>
+      <point x="-265" y="-163" type="line"/>
+      <point x="-248" y="-163"/>
+      <point x="-239" y="-175"/>
+      <point x="-243" y="-192" type="curve" smooth="yes"/>
+      <point x="-247" y="-209"/>
+      <point x="-262" y="-221"/>
+    </contour>
+    <contour>
+      <point x="-469" y="-225" type="curve" smooth="yes"/>
+      <point x="-407" y="-225"/>
+      <point x="-343" y="-201"/>
+      <point x="-319" y="-192" type="curve"/>
+      <point x="-307" y="-139" type="line"/>
+      <point x="-337" y="-148"/>
+      <point x="-411" y="-170"/>
+      <point x="-459" y="-170" type="curve" smooth="yes"/>
+      <point x="-507" y="-170"/>
+      <point x="-541" y="-158"/>
+      <point x="-566" y="-143" type="curve"/>
+      <point x="-598" y="-196" type="line"/>
+      <point x="-568" y="-215"/>
+      <point x="-522" y="-225"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

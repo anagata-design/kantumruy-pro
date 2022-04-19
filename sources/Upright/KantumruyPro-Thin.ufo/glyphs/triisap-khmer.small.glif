@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triisap-khmer.small" format="2">
+  <anchor x="-280" y="592" name="_top"/>
+  <anchor x="-280" y="746" name="top"/>
+  <anchor x="-102" y="746" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-450" y="682" type="line"/>
+      <point x="-371" y="731" type="line"/>
+      <point x="-281" y="682" type="line"/>
+      <point x="-279" y="682" type="line"/>
+      <point x="-189" y="731" type="line"/>
+      <point x="-110" y="682" type="line"/>
+      <point x="-100" y="694" type="line"/>
+      <point x="-187" y="748" type="line"/>
+      <point x="-190" y="748" type="line"/>
+      <point x="-280" y="699" type="line"/>
+      <point x="-370" y="748" type="line"/>
+      <point x="-373" y="748" type="line"/>
+      <point x="-460" y="694" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

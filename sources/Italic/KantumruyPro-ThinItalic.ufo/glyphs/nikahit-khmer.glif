@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nikahit-khmer" format="2">
+  <unicode hex="17C6"/>
+  <anchor x="-208" y="592" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-178" y="686" type="curve" smooth="yes"/>
+      <point x="-128" y="686"/>
+      <point x="-91" y="717"/>
+      <point x="-81" y="760" type="curve" smooth="yes"/>
+      <point x="-68" y="815"/>
+      <point x="-102" y="858"/>
+      <point x="-155" y="858" type="curve" smooth="yes"/>
+      <point x="-204" y="858"/>
+      <point x="-242" y="826"/>
+      <point x="-252" y="783" type="curve" smooth="yes"/>
+      <point x="-265" y="728"/>
+      <point x="-231" y="686"/>
+    </contour>
+    <contour>
+      <point x="-178" y="700" type="curve" smooth="yes"/>
+      <point x="-220" y="700"/>
+      <point x="-248" y="734"/>
+      <point x="-237" y="780" type="curve" smooth="yes"/>
+      <point x="-229" y="816"/>
+      <point x="-197" y="844"/>
+      <point x="-155" y="844" type="curve" smooth="yes"/>
+      <point x="-113" y="844"/>
+      <point x="-85" y="809"/>
+      <point x="-96" y="763" type="curve" smooth="yes"/>
+      <point x="-104" y="727"/>
+      <point x="-135" y="700"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="430"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="215" y="224" type="curve" smooth="yes"/>
+      <point x="283" y="224"/>
+      <point x="332" y="272"/>
+      <point x="332" y="337" type="curve" smooth="yes"/>
+      <point x="332" y="403"/>
+      <point x="283" y="451"/>
+      <point x="215" y="451" type="curve" smooth="yes"/>
+      <point x="148" y="451"/>
+      <point x="98" y="403"/>
+      <point x="98" y="337" type="curve" smooth="yes"/>
+      <point x="98" y="272"/>
+      <point x="148" y="224"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

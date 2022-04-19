@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave" format="2">
+  <advance width="280"/>
+  <unicode hex="00CC"/>
+  <anchor x="82" y="0" name="bottom"/>
+  <anchor x="118" y="0" name="ogonek"/>
+  <anchor x="276" y="866" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="gravecomb.case" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.case</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>
