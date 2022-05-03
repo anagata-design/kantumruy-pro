@@ -17,7 +17,7 @@
 
 Kantumruy Pro is a newly redrawn design of the first Kantumruy (published in 2013) which is a modern display Khmer typeface that is being used by small and big brands in Cambodia, as well as many non-profit organizations for their visual identities. In the new version, the design direction mostly remains the same, however, there are major changes in vertical metrics and proportions, some letterforms, and the Italic set is also included.
 
-This update is made possible with the funding from Google Fonts and continuos support from Dave Crossland and the team at Google Fonts.
+This update is made possible with the funding from Google Fonts and continuos support from Dave Crossland and the team at Google Fonts. Also, thanks to Cadson Demak team for the coordination in this project.
 
 ## About
 
