@@ -1,18 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="2">
-  <advance width="555"/>
-  <unicode hex="00CB"/>
-  <anchor x="319" y="0" name="bottom"/>
-  <anchor x="525" y="0" name="ogonek"/>
-  <anchor x="305" y="798" name="top"/>
-  <outline>
-    <component base="E"/>
-    <component base="dieresiscomb" xOffset="305" yOffset="160"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="555"/>
+	<unicode hex="00CB"/>
+	<anchor x="525" y="0" name="ogonek"/>
+	<anchor x="319" y="0" name="bottom"/>
+	<anchor x="305" y="798" name="top"/>
+	<outline>
+		<component base="E"/>
+		<component base="dieresiscomb" xOffset="305" yOffset="160"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

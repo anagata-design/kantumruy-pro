@@ -1,74 +1,74 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="278"/>
-  <unicode hex="00EF"/>
-  <anchor x="238" y="690" name="top"/>
-  <anchor x="84" y="0" name="bottom"/>
-  <anchor x="169" y="0" name="ogonek"/>
-  <outline>
-    <contour>
-      <point x="318" y="555" type="curve" smooth="yes"/>
-      <point x="378" y="555"/>
-      <point x="411" y="587"/>
-      <point x="411" y="647" type="curve" smooth="yes"/>
-      <point x="411" y="688"/>
-      <point x="381" y="709"/>
-      <point x="335" y="709" type="curve" smooth="yes"/>
-      <point x="275" y="709"/>
-      <point x="241" y="676"/>
-      <point x="241" y="617" type="curve" smooth="yes"/>
-      <point x="241" y="575"/>
-      <point x="272" y="555"/>
-    </contour>
-    <contour>
-      <point x="110" y="555" type="curve" smooth="yes"/>
-      <point x="171" y="555"/>
-      <point x="204" y="587"/>
-      <point x="204" y="647" type="curve" smooth="yes"/>
-      <point x="204" y="688"/>
-      <point x="174" y="709"/>
-      <point x="129" y="709" type="curve" smooth="yes"/>
-      <point x="67" y="709"/>
-      <point x="34" y="676"/>
-      <point x="34" y="617" type="curve" smooth="yes"/>
-      <point x="34" y="575"/>
-      <point x="64" y="555"/>
-    </contour>
-    <component base="idotless" xOffset="-2"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>idotless</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>233</integer>
-            <integer>46</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="278"/>
+	<unicode hex="00EF"/>
+	<anchor x="169" y="0" name="ogonek"/>
+	<anchor x="84" y="0" name="bottom"/>
+	<anchor x="238" y="690" name="top"/>
+	<outline>
+		<contour>
+			<point x="318" y="555" type="curve" smooth="yes"/>
+			<point x="378" y="555"/>
+			<point x="411" y="587"/>
+			<point x="411" y="647" type="curve" smooth="yes"/>
+			<point x="411" y="688"/>
+			<point x="381" y="709"/>
+			<point x="335" y="709" type="curve" smooth="yes"/>
+			<point x="275" y="709"/>
+			<point x="241" y="676"/>
+			<point x="241" y="617" type="curve" smooth="yes"/>
+			<point x="241" y="575"/>
+			<point x="272" y="555"/>
+		</contour>
+		<contour>
+			<point x="110" y="555" type="curve" smooth="yes"/>
+			<point x="171" y="555"/>
+			<point x="204" y="587"/>
+			<point x="204" y="647" type="curve" smooth="yes"/>
+			<point x="204" y="688"/>
+			<point x="174" y="709"/>
+			<point x="129" y="709" type="curve" smooth="yes"/>
+			<point x="67" y="709"/>
+			<point x="34" y="676"/>
+			<point x="34" y="617" type="curve" smooth="yes"/>
+			<point x="34" y="575"/>
+			<point x="64" y="555"/>
+		</contour>
+		<component base="idotless" xOffset="-2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>idotless</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>233</integer>
+						<integer>46</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

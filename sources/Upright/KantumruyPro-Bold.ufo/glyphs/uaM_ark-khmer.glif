@@ -1,31 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uaMark-khmer" format="2">
-  <unicode hex="17BD"/>
-  <anchor x="-100" y="0" name="_bottomright"/>
-  <outline>
-    <contour>
-      <point x="-456" y="-258" type="line"/>
-      <point x="-346" y="-258" type="line"/>
-      <point x="-288" y="-203" type="line"/>
-      <point x="-230" y="-258" type="line"/>
-      <point x="-100" y="-258" type="line"/>
-      <point x="-100" y="-50" type="line"/>
-      <point x="-246" y="-50" type="line"/>
-      <point x="-246" y="-156" type="line"/>
-      <point x="-288" y="-118" type="line"/>
-      <point x="-330" y="-156" type="line"/>
-      <point x="-330" y="-50" type="line"/>
-      <point x="-456" y="-50" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<unicode hex="17BD"/>
+	<anchor x="-100" y="0" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-456" y="-258" type="line"/>
+			<point x="-346" y="-258" type="line"/>
+			<point x="-288" y="-203" type="line"/>
+			<point x="-230" y="-258" type="line"/>
+			<point x="-100" y="-258" type="line"/>
+			<point x="-100" y="-50" type="line"/>
+			<point x="-246" y="-50" type="line"/>
+			<point x="-246" y="-156" type="line"/>
+			<point x="-288" y="-118" type="line"/>
+			<point x="-330" y="-156" type="line"/>
+			<point x="-330" y="-50" type="line"/>
+			<point x="-456" y="-50" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quk-khmer" format="2">
-  <advance width="602"/>
-  <unicode hex="17A8"/>
-  <outline>
-    <contour>
-      <point x="184" y="644" type="line"/>
-      <point x="287" y="690" type="line"/>
-      <point x="385" y="651" type="line"/>
-      <point x="391" y="651" type="line"/>
-      <point x="507" y="690" type="line"/>
-      <point x="588" y="644" type="line"/>
-      <point x="645" y="717" type="line"/>
-      <point x="535" y="793" type="line"/>
-      <point x="525" y="793" type="line"/>
-      <point x="411" y="752" type="line"/>
-      <point x="317" y="793" type="line"/>
-      <point x="307" y="793" type="line"/>
-      <point x="161" y="717" type="line"/>
-    </contour>
-    <component base="qu-khmer"/>
-  </outline>
+	<advance width="602"/>
+	<unicode hex="17A8"/>
+	<outline>
+		<contour>
+			<point x="184" y="644" type="line"/>
+			<point x="287" y="690" type="line"/>
+			<point x="385" y="651" type="line"/>
+			<point x="391" y="651" type="line"/>
+			<point x="507" y="690" type="line"/>
+			<point x="588" y="644" type="line"/>
+			<point x="645" y="717" type="line"/>
+			<point x="535" y="793" type="line"/>
+			<point x="525" y="793" type="line"/>
+			<point x="411" y="752" type="line"/>
+			<point x="317" y="793" type="line"/>
+			<point x="307" y="793" type="line"/>
+			<point x="161" y="717" type="line"/>
+		</contour>
+		<component base="qu-khmer"/>
+	</outline>
 </glyph>

@@ -1,23 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bantoc-khmer" format="2">
-  <unicode hex="17CB"/>
-  <anchor x="-58" y="594" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-71" y="670" type="line"/>
-      <point x="-9" y="670" type="line"/>
-      <point x="34" y="858" type="line"/>
-      <point x="-28" y="858" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<unicode hex="17CB"/>
+	<anchor x="-58" y="594" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-71" y="670" type="line"/>
+			<point x="-9" y="670" type="line"/>
+			<point x="34" y="858" type="line"/>
+			<point x="-28" y="858" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

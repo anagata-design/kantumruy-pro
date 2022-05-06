@@ -1,42 +1,42 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-  <advance width="758"/>
-  <unicode hex="004D"/>
-  <anchor x="379" y="0" name="bottom"/>
-  <anchor x="659" y="0" name="ogonek"/>
-  <anchor x="379" y="660" name="top"/>
-  <outline>
-    <contour>
-      <point x="659" y="660" type="line"/>
-      <point x="638" y="660" type="line"/>
-      <point x="391" y="47" type="line"/>
-      <point x="379" y="19" type="line"/>
-      <point x="379" y="19" type="line"/>
-      <point x="367" y="48" type="line"/>
-      <point x="120" y="660" type="line"/>
-      <point x="99" y="660" type="line"/>
-      <point x="99" y="0" type="line"/>
-      <point x="115" y="0" type="line"/>
-      <point x="115" y="580" type="line"/>
-      <point x="114" y="637" type="line"/>
-      <point x="114" y="637" type="line"/>
-      <point x="369" y="0" type="line"/>
-      <point x="389" y="0" type="line"/>
-      <point x="644" y="637" type="line"/>
-      <point x="644" y="637" type="line"/>
-      <point x="643" y="580" type="line"/>
-      <point x="643" y="0" type="line"/>
-      <point x="659" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="758"/>
+	<unicode hex="004D"/>
+	<anchor x="659" y="0" name="ogonek"/>
+	<anchor x="379" y="0" name="bottom"/>
+	<anchor x="379" y="660" name="top"/>
+	<outline>
+		<contour>
+			<point x="659" y="660" type="line"/>
+			<point x="638" y="660" type="line"/>
+			<point x="391" y="47" type="line"/>
+			<point x="379" y="19" type="line"/>
+			<point x="379" y="19" type="line"/>
+			<point x="367" y="48" type="line"/>
+			<point x="120" y="660" type="line"/>
+			<point x="99" y="660" type="line"/>
+			<point x="99" y="0" type="line"/>
+			<point x="115" y="0" type="line"/>
+			<point x="115" y="580" type="line"/>
+			<point x="114" y="637" type="line"/>
+			<point x="114" y="637" type="line"/>
+			<point x="369" y="0" type="line"/>
+			<point x="389" y="0" type="line"/>
+			<point x="644" y="637" type="line"/>
+			<point x="644" y="637" type="line"/>
+			<point x="643" y="580" type="line"/>
+			<point x="643" y="0" type="line"/>
+			<point x="659" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

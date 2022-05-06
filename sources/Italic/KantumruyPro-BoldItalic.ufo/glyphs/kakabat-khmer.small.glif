@@ -1,30 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kakabat-khmer.small" format="2">
-  <anchor x="-126" y="752" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-165" y="780" type="line"/>
-      <point x="-75" y="780" type="line"/>
-      <point x="-61" y="840" type="line"/>
-      <point x="19" y="840" type="line"/>
-      <point x="37" y="920" type="line"/>
-      <point x="-43" y="920" type="line"/>
-      <point x="-29" y="980" type="line"/>
-      <point x="-119" y="980" type="line"/>
-      <point x="-133" y="920" type="line"/>
-      <point x="-213" y="920" type="line"/>
-      <point x="-231" y="840" type="line"/>
-      <point x="-151" y="840" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-120" y="780" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-159" y="808" type="line"/>
+			<point x="-69" y="808" type="line"/>
+			<point x="-55" y="868" type="line"/>
+			<point x="25" y="868" type="line"/>
+			<point x="43" y="948" type="line"/>
+			<point x="-37" y="948" type="line"/>
+			<point x="-23" y="1008" type="line"/>
+			<point x="-113" y="1008" type="line"/>
+			<point x="-127" y="948" type="line"/>
+			<point x="-207" y="948" type="line"/>
+			<point x="-225" y="868" type="line"/>
+			<point x="-145" y="868" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-05-06 07:33:43 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

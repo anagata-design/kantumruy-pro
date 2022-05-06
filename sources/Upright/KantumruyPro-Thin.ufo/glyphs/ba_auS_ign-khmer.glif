@@ -1,42 +1,42 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba_auSign-khmer" format="2">
-  <advance width="904"/>
-  <anchor x="297" y="0" name="bottom"/>
-  <anchor x="486" y="0" name="bottomright"/>
-  <anchor x="297" y="592" name="top"/>
-  <anchor x="486" y="592" name="topright"/>
-  <outline>
-    <contour>
-      <point x="768" y="512" type="line"/>
-      <point x="772" y="512" type="line"/>
-      <point x="779" y="519"/>
-      <point x="784" y="531"/>
-      <point x="784" y="549" type="curve"/>
-      <point x="784" y="742" type="line" smooth="yes"/>
-      <point x="784" y="780"/>
-      <point x="762" y="802"/>
-      <point x="724" y="802" type="curve" smooth="yes"/>
-      <point x="678" y="802" type="line"/>
-      <point x="678" y="786" type="line"/>
-      <point x="724" y="786" type="line" smooth="yes"/>
-      <point x="752" y="786"/>
-      <point x="768" y="770"/>
-      <point x="768" y="742" type="curve" smooth="yes"/>
-    </contour>
-    <component base="ba_aaSign-khmer"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Letter</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>ca-khmer</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>auSign-khmer</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Other</string>
-    </dict>
-  </lib>
+	<advance width="904"/>
+	<anchor x="297" y="592" name="top"/>
+	<anchor x="486" y="592" name="topright"/>
+	<anchor x="486" y="0" name="bottomright"/>
+	<anchor x="297" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="768" y="512" type="line"/>
+			<point x="772" y="512" type="line"/>
+			<point x="779" y="519"/>
+			<point x="784" y="531"/>
+			<point x="784" y="549" type="curve"/>
+			<point x="784" y="742" type="line" smooth="yes"/>
+			<point x="784" y="780"/>
+			<point x="762" y="802"/>
+			<point x="724" y="802" type="curve" smooth="yes"/>
+			<point x="678" y="802" type="line"/>
+			<point x="678" y="786" type="line"/>
+			<point x="724" y="786" type="line" smooth="yes"/>
+			<point x="752" y="786"/>
+			<point x="768" y="770"/>
+			<point x="768" y="742" type="curve" smooth="yes"/>
+		</contour>
+		<component base="ba_aaSign-khmer"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>ca-khmer</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>auSign-khmer</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
 </glyph>

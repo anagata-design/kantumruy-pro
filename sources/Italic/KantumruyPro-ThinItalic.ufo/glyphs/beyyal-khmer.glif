@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beyyal-khmer" format="2">
-  <advance width="1895"/>
-  <unicode hex="17D8"/>
-  <anchor x="1076" y="0" name="bottom"/>
-  <anchor x="1237" y="0" name="bottomright"/>
-  <anchor x="1213" y="592" name="top"/>
-  <anchor x="1384" y="592" name="topright"/>
-  <outline>
-    <component base="khan-khmer"/>
-    <component base="lo-khmer" xOffset="524"/>
-    <component base="khan-khmer" xOffset="1371"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>khan-khmer</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>khan-khmer</string>
-    </dict>
-  </lib>
+	<advance width="1895"/>
+	<unicode hex="17D8"/>
+	<anchor x="1213" y="592" name="top"/>
+	<anchor x="1384" y="592" name="topright"/>
+	<anchor x="1237" y="0" name="bottomright"/>
+	<anchor x="1076" y="0" name="bottom"/>
+	<outline>
+		<component base="khan-khmer"/>
+		<component base="lo-khmer" xOffset="524"/>
+		<component base="khan-khmer" xOffset="1371"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>khan-khmer</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>khan-khmer</string>
+		</dict>
+	</lib>
 </glyph>

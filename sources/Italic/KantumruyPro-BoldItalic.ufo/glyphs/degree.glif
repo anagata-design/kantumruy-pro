@@ -1,74 +1,74 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="degree" format="2">
-  <advance width="478"/>
-  <unicode hex="00B0"/>
-  <outline>
-    <contour>
-      <point x="293" y="298" type="curve" smooth="yes"/>
-      <point x="416" y="298"/>
-      <point x="495" y="371"/>
-      <point x="495" y="484" type="curve" smooth="yes"/>
-      <point x="495" y="597"/>
-      <point x="416" y="670"/>
-      <point x="293" y="670" type="curve" smooth="yes"/>
-      <point x="169" y="670"/>
-      <point x="91" y="597"/>
-      <point x="91" y="484" type="curve" smooth="yes"/>
-      <point x="91" y="371"/>
-      <point x="169" y="298"/>
-    </contour>
-    <contour>
-      <point x="293" y="407" type="curve" smooth="yes"/>
-      <point x="246" y="407"/>
-      <point x="214" y="439"/>
-      <point x="214" y="485" type="curve" smooth="yes"/>
-      <point x="214" y="530"/>
-      <point x="246" y="562"/>
-      <point x="293" y="562" type="curve" smooth="yes"/>
-      <point x="339" y="562"/>
-      <point x="371" y="530"/>
-      <point x="371" y="485" type="curve" smooth="yes"/>
-      <point x="371" y="439"/>
-      <point x="339" y="407"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>0</integer>
-            <integer>0</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>0</integer>
-            <integer>0</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="478"/>
+	<unicode hex="00B0"/>
+	<outline>
+		<contour>
+			<point x="293" y="298" type="curve" smooth="yes"/>
+			<point x="416" y="298"/>
+			<point x="495" y="371"/>
+			<point x="495" y="484" type="curve" smooth="yes"/>
+			<point x="495" y="597"/>
+			<point x="416" y="670"/>
+			<point x="293" y="670" type="curve" smooth="yes"/>
+			<point x="169" y="670"/>
+			<point x="91" y="597"/>
+			<point x="91" y="484" type="curve" smooth="yes"/>
+			<point x="91" y="371"/>
+			<point x="169" y="298"/>
+		</contour>
+		<contour>
+			<point x="293" y="407" type="curve" smooth="yes"/>
+			<point x="246" y="407"/>
+			<point x="214" y="439"/>
+			<point x="214" y="485" type="curve" smooth="yes"/>
+			<point x="214" y="530"/>
+			<point x="246" y="562"/>
+			<point x="293" y="562" type="curve" smooth="yes"/>
+			<point x="339" y="562"/>
+			<point x="371" y="530"/>
+			<point x="371" y="485" type="curve" smooth="yes"/>
+			<point x="371" y="439"/>
+			<point x="339" y="407"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>0</integer>
+						<integer>0</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>0</integer>
+						<integer>0</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

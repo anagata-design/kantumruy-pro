@@ -1,30 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kakabat-khmer.small" format="2">
-  <anchor x="-177" y="746" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-184" y="794" type="line"/>
-      <point x="-170" y="794" type="line"/>
-      <point x="-170" y="861" type="line"/>
-      <point x="-100" y="861" type="line"/>
-      <point x="-100" y="875" type="line"/>
-      <point x="-170" y="875" type="line"/>
-      <point x="-170" y="942" type="line"/>
-      <point x="-184" y="942" type="line"/>
-      <point x="-184" y="875" type="line"/>
-      <point x="-254" y="875" type="line"/>
-      <point x="-254" y="861" type="line"/>
-      <point x="-184" y="861" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-177" y="746" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-184" y="794" type="line"/>
+			<point x="-170" y="794" type="line"/>
+			<point x="-170" y="861" type="line"/>
+			<point x="-100" y="861" type="line"/>
+			<point x="-100" y="875" type="line"/>
+			<point x="-170" y="875" type="line"/>
+			<point x="-170" y="942" type="line"/>
+			<point x="-184" y="942" type="line"/>
+			<point x="-184" y="875" type="line"/>
+			<point x="-254" y="875" type="line"/>
+			<point x="-254" y="861" type="line"/>
+			<point x="-184" y="861" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

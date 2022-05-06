@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="678"/>
-  <unicode hex="004B"/>
-  <anchor x="298" y="0" name="bottom"/>
-  <anchor x="612" y="0" name="ogonek"/>
-  <anchor x="445" y="660" name="top"/>
-  <outline>
-    <contour>
-      <point x="14" y="0" type="line"/>
-      <point x="186" y="0" type="line"/>
-      <point x="227" y="177" type="line"/>
-      <point x="332" y="274" type="line"/>
-      <point x="434" y="0" type="line"/>
-      <point x="611" y="0" type="line"/>
-      <point x="465" y="383" type="line"/>
-      <point x="758" y="660" type="line"/>
-      <point x="563" y="660" type="line"/>
-      <point x="277" y="392" type="line"/>
-      <point x="339" y="660" type="line"/>
-      <point x="167" y="660" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="678"/>
+	<unicode hex="004B"/>
+	<anchor x="612" y="0" name="ogonek"/>
+	<anchor x="298" y="0" name="bottom"/>
+	<anchor x="445" y="660" name="top"/>
+	<outline>
+		<contour>
+			<point x="14" y="0" type="line"/>
+			<point x="186" y="0" type="line"/>
+			<point x="227" y="177" type="line"/>
+			<point x="332" y="274" type="line"/>
+			<point x="434" y="0" type="line"/>
+			<point x="611" y="0" type="line"/>
+			<point x="465" y="383" type="line"/>
+			<point x="758" y="660" type="line"/>
+			<point x="563" y="660" type="line"/>
+			<point x="277" y="392" type="line"/>
+			<point x="339" y="660" type="line"/>
+			<point x="167" y="660" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

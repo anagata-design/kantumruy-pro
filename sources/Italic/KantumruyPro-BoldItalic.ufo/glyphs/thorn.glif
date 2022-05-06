@@ -1,57 +1,57 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="2">
-  <advance width="609"/>
-  <unicode hex="00FE"/>
-  <anchor x="37" y="-210" name="bottom"/>
-  <anchor x="408" y="13" name="ogonek"/>
-  <anchor x="250" y="712" name="top"/>
-  <outline>
-    <contour>
-      <point x="-49" y="-210" type="line"/>
-      <point x="121" y="-210" type="line"/>
-      <point x="210" y="175" type="line"/>
-      <point x="189" y="142" type="line"/>
-      <point x="191" y="34"/>
-      <point x="266" y="-10"/>
-      <point x="345" y="-10" type="curve" smooth="yes"/>
-      <point x="484" y="-10"/>
-      <point x="578" y="150"/>
-      <point x="578" y="313" type="curve" smooth="yes"/>
-      <point x="578" y="439"/>
-      <point x="512" y="509"/>
-      <point x="421" y="509" type="curve" smooth="yes"/>
-      <point x="329" y="509"/>
-      <point x="257" y="443"/>
-      <point x="236" y="336" type="curve"/>
-      <point x="249" y="344" type="line"/>
-      <point x="334" y="712" type="line"/>
-      <point x="164" y="712" type="line"/>
-    </contour>
-    <contour>
-      <point x="297" y="115" type="curve" smooth="yes"/>
-      <point x="248" y="115"/>
-      <point x="223" y="151"/>
-      <point x="223" y="204" type="curve" smooth="yes"/>
-      <point x="223" y="291"/>
-      <point x="268" y="384"/>
-      <point x="335" y="384" type="curve" smooth="yes"/>
-      <point x="383" y="384"/>
-      <point x="410" y="350"/>
-      <point x="410" y="292" type="curve" smooth="yes"/>
-      <point x="410" y="213"/>
-      <point x="366" y="115"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>h</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>p</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=b</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="609"/>
+	<unicode hex="00FE"/>
+	<anchor x="408" y="13" name="ogonek"/>
+	<anchor x="37" y="-210" name="bottom"/>
+	<anchor x="250" y="712" name="top"/>
+	<outline>
+		<contour>
+			<point x="-49" y="-210" type="line"/>
+			<point x="121" y="-210" type="line"/>
+			<point x="210" y="175" type="line"/>
+			<point x="189" y="142" type="line"/>
+			<point x="191" y="34"/>
+			<point x="266" y="-10"/>
+			<point x="345" y="-10" type="curve" smooth="yes"/>
+			<point x="484" y="-10"/>
+			<point x="578" y="150"/>
+			<point x="578" y="313" type="curve" smooth="yes"/>
+			<point x="578" y="439"/>
+			<point x="512" y="509"/>
+			<point x="421" y="509" type="curve" smooth="yes"/>
+			<point x="329" y="509"/>
+			<point x="257" y="443"/>
+			<point x="236" y="336" type="curve"/>
+			<point x="249" y="344" type="line"/>
+			<point x="334" y="712" type="line"/>
+			<point x="164" y="712" type="line"/>
+		</contour>
+		<contour>
+			<point x="297" y="115" type="curve" smooth="yes"/>
+			<point x="248" y="115"/>
+			<point x="223" y="151"/>
+			<point x="223" y="204" type="curve" smooth="yes"/>
+			<point x="223" y="291"/>
+			<point x="268" y="384"/>
+			<point x="335" y="384" type="curve" smooth="yes"/>
+			<point x="383" y="384"/>
+			<point x="410" y="350"/>
+			<point x="410" y="292" type="curve" smooth="yes"/>
+			<point x="410" y="213"/>
+			<point x="366" y="115"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>h</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>p</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==b</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

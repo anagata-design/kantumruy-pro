@@ -1,8 +1,8 @@
-@kmHalfCol = [  ro-khmer
+@kmHalfCol = [ ro-khmer
 vo-khmer 
-];
+ ];
 
-@kmOneCol = [  ka-khmer
+@kmOneCol = [ ka-khmer
 kha-khmer
 ko-khmer
 ngo-khmer
@@ -27,9 +27,9 @@ vo-khmer
 sha-khmer
 sso-khmer
 qa-khmer 
-];
+ ];
 
-@kmTwoCols = [  kho-khmer
+@kmTwoCols = [ kho-khmer
 nyo-khmer
 nyo-khmer.less
 ttho-khmer
@@ -38,13 +38,13 @@ lo-khmer
 sa-khmer
 ha-khmer
 la-khmer 
-];
+ ];
 
-@kmThreeCols = [  cho-khmer
+@kmThreeCols = [ cho-khmer
 nno-khmer 
-];
+ ];
 
-@kmCoengsBelow = [  ka-khmer.below
+@kmCoengsBelow = [ ka-khmer.below
 kha-khmer.below
 ko-khmer.below
 ngo-khmer.below
@@ -88,16 +88,16 @@ ha-khmer.below2
 # ly-khmer.below
 # qe-khmer.below
 
-];
+ ];
 
-@kmCoengsPost = [  kho-khmer.post
+@kmCoengsPost = [ kho-khmer.post
 cho-khmer.post
 ttho-khmer.post
 ba-khmer.post
 yo-khmer.post
 sso-khmer.post
 sa-khmer.post 
-];
+ ];
 
 @kmCoengsPost2 = [ #  kho-khmer.post2
 # cho-khmer.post2
@@ -106,39 +106,39 @@ sa-khmer.post
 yo-khmer.post2
 # sso-khmer.post2
 # sa-khmer.post2 
-];
+ ];
 
-@kmVowelsBelow = [  uMark-khmer
+@kmVowelsBelow = [ uMark-khmer
 uuMark-khmer
 uaMark-khmer 
-];
+ ];
 
-@kmVowelsBelow2 = [  uMark-khmer.below2
+@kmVowelsBelow2 = [ uMark-khmer.below2
 uuMark-khmer.below2
 uaMark-khmer.below2 
-];
+ ];
 
-@kmVowelsAbove = [  iMark-khmer
+@kmVowelsAbove = [ iMark-khmer
 iiMark-khmer
 yMark-khmer
 yyMark-khmer
 iMark_toandakhiat-khmer 
-];
+ ];
 
-@kmVowelsAboveNarrow = [  iMark-khmer.narrow
+@kmVowelsAboveNarrow = [ iMark-khmer.narrow
 iiMark-khmer.narrow
 yMark-khmer.narrow
 yyMark-khmer.narrow
 iMark_toandakhiat-khmer.narrow 
-];
+ ];
 
-@kmTriisapBases = [  sa-khmer
+@kmTriisapBases = [ sa-khmer
 sa-khmer.post
 ha-khmer
 qa-khmer 
-];
+ ];
 
-@kmMuusikBases = [  ngo-khmer
+@kmMuusikBases = [ ngo-khmer
 nyo-khmer
 nyo-khmer.less
 no-khmer
@@ -150,9 +150,9 @@ yo-khmer.post
 ro-khmer
 lo-khmer
 vo-khmer 
-];
+ ];
 
-@kmLigaBases = [  ka-khmer
+@kmLigaBases = [ ka-khmer
 kha-khmer
 ko-khmer
 kho-khmer
@@ -202,10 +202,10 @@ sa-khmer.post
 yo-khmer.post2
 # sso-khmer.post2
 # sa-khmer.post2 
-];
+ ];
 
-@kmMarksAbove = [  triisap-khmer muusikatoan-khmer robat-khmer muusikatoan-khmer.ro 
-];
+@kmMarksAbove = [ triisap-khmer muusikatoan-khmer robat-khmer muusikatoan-khmer.ro 
+ ];
 
 @kmLigaAA = [ ka_aaSign-khmer
 kha_aaSign-khmer
@@ -259,7 +259,7 @@ sa_aaSign-khmer.post_
 yo_aaSign-khmer.post2_
 # sso_aaSign-khmer.post2_
 # sa_aaSign-khmer.post2_ 
-];
+ ];
 
 @kmLigaAU = [ ka_auSign-khmer
 kha_auSign-khmer
@@ -313,40 +313,40 @@ sa_auSign-khmer.post_
 yo_auSign-khmer.post2_
 # sso_auSign-khmer.post2_
 # sa_auSign-khmer.post2_ 
-];
+ ];
 
 @blwv_uu_ua = [ uuMark-khmer uaMark-khmer
-];
+ ];
 
 @aa_sign = [ aaSign-khmer auSign-khmer
-];
+ ];
 
 @coengs_below_ro = [ da-khmer.below ta-khmer.below po-khmer.below pho-khmer.below mo-khmer.below
-];
+ ];
 
 @narrow_coengs = [ da-khmer.below.ro ta-khmer.below.ro po-khmer.below.ro pho-khmer.below.ro mo-khmer.below.ro
-];
+ ];
 
 @abvv_triisap_filter = [ @kmVowelsAbove triisap-khmer
-];
+ ];
 
 @abvv_muusik_filter = [ @kmVowelsAbove samyoksannya-khmer muusikatoan-khmer
-];
+ ];
 
 @sara_am_filter = [ triisap-khmer muusikatoan-khmer aaSign-khmer nikahit-khmer
-];
+ ];
 
 @below2_filter = [ @kmCoengsBelow @kmVowelsBelow
-];
+ ];
 
 @abvv = [ muusikatoan-khmer triisap-khmer robat-khmer
-];
+ ];
 
 @marks_after_liga = [ nikahit-khmer kakabat-khmer
-];
+ ];
 
 @coeng_nyo_narrow_filter = [ nyo-khmer.full.below @kmVowelsBelow2
-];
+ ];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
@@ -468,28 +468,6 @@ lookup kakabat_in_liga {
 	sub kakabat-khmer by zerowidthjoiner kakabat-khmer;
 } kakabat_in_liga;
 
-feature aalt {
-# automatic
-feature pres;
-feature blws;
-feature abvs;
-feature psts;
-feature pref;
-feature blwf;
-feature abvf;
-feature pstf;
-feature clig;
-
-} aalt;
-
-feature pres {
-script khmr;
-
-lookup km_ro_pre2 {
-  sub ro-khmer.pre' [@kmOneCol @kmHalfCol] [@kmCoengsBelow @kmCoengsPost] by ro-khmer.pre2;
-} km_ro_pre2;
-} pres;
-
 feature blws {
 script khmr;
 
@@ -554,6 +532,83 @@ lookup km_ro_below_vowels {
   lookupflag 0;
 } km_ro_below_vowels;
 } blws;
+
+feature clig {
+script khmr;
+
+lookup km_nyo_less {
+  sub nyo-khmer' [coeng-khmer @kmCoengsBelow @kmCoengsPost] by nyo-khmer.less;
+  sub nyo-khmer.less nyo-khmer.below' by nyo-khmer.full.below;
+} km_nyo_less;
+
+#**********#
+
+  lookup km_coeng_nyo_narrow {
+  lookupflag UseMarkFilteringSet @coeng_nyo_narrow_filter;
+  sub nyo-khmer.less nyo-khmer.full.below' @kmVowelsBelow2 by nyo-khmer.full.below.narrow;
+  lookupflag 0;
+} km_coeng_nyo_narrow;
+
+#**********#
+
+lookupflag IgnoreMarks; 
+
+lookup km_base_liga {
+  sub @kmLigaBases' lookup base_aa_ligatures [aaSign-khmer auSign-khmer]';
+} km_base_liga;
+
+lookup base_old_aa_au_to_nospace {
+	sub [@kmLigaAA @kmLigaAU] [aaSign-khmer auSign-khmer]' by nospace;
+} base_old_aa_au_to_nospace;
+
+lookupflag 0;
+
+#**********#
+
+lookupflag UseMarkFilteringSet @marks_after_liga;
+
+lookup km_base_marks_after_liga {
+  sub @kmLigaAA nikahit-khmer' lookup nikahit_in_liga;
+  sub @kmLigaAA kakabat-khmer' lookup kakabat_in_liga;
+} km_base_marks_after_liga;
+
+lookupflag 0;
+
+lookup km_ro_pre_narrow {
+  lookupflag UseMarkFilteringSet @blwv_uu_ua;
+  sub ro-khmer.pre' @kmOneCol @blwv_uu_ua by ro-khmer.pre.narrow;
+} km_ro_pre_narrow;
+} clig;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Z a aacute acircumflex adieresis agrave aring atilde ae b c ccedilla d eth e eacute ecircumflex edieresis egrave f g h i idotless iacute icircumflex idieresis igrave j jdotless k l m n ntilde o oacute ocircumflex odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z ka-khmer kha-khmer ko-khmer kho-khmer ngo-khmer ca-khmer cha-khmer co-khmer cho-khmer nyo-khmer da-khmer ttha-khmer do-khmer ttho-khmer nno-khmer ta-khmer tha-khmer to-khmer tho-khmer no-khmer ba-khmer pha-khmer po-khmer pho-khmer mo-khmer yo-khmer ro-khmer lo-khmer vo-khmer sha-khmer sso-khmer sa-khmer ha-khmer la-khmer qa-khmer nyo-khmer.less ry-khmer ryy-khmer ly-khmer lyy-khmer kho-khmer.post cho-khmer.post ttho-khmer.post ba-khmer.post yo-khmer.post sso-khmer.post sa-khmer.post yo-khmer.post2 ka_aaSign-khmer kha_aaSign-khmer ko_aaSign-khmer kho_aaSign-khmer ngo_aaSign-khmer ca_aaSign-khmer cha_aaSign-khmer co_aaSign-khmer cho_aaSign-khmer nyo_aaSign-khmer da_aaSign-khmer ttha_aaSign-khmer do_aaSign-khmer ttho_aaSign-khmer nno_aaSign-khmer ta_aaSign-khmer tha_aaSign-khmer to_aaSign-khmer tho_aaSign-khmer no_aaSign-khmer ba_aaSign-khmer pha_aaSign-khmer po_aaSign-khmer pho_aaSign-khmer mo_aaSign-khmer yo_aaSign-khmer ro_aaSign-khmer lo_aaSign-khmer vo_aaSign-khmer sha_aaSign-khmer sso_aaSign-khmer sa_aaSign-khmer ha_aaSign-khmer la_aaSign-khmer qa_aaSign-khmer nyo_aaSign-khmer.less ka_auSign-khmer kha_auSign-khmer ko_auSign-khmer kho_auSign-khmer ngo_auSign-khmer ca_auSign-khmer cha_auSign-khmer co_auSign-khmer cho_auSign-khmer nyo_auSign-khmer da_auSign-khmer ttha_auSign-khmer do_auSign-khmer ttho_auSign-khmer nno_auSign-khmer ta_auSign-khmer tha_auSign-khmer to_auSign-khmer tho_auSign-khmer no_auSign-khmer ba_auSign-khmer pha_auSign-khmer po_auSign-khmer pho_auSign-khmer mo_auSign-khmer yo_auSign-khmer ro_auSign-khmer lo_auSign-khmer vo_auSign-khmer sha_auSign-khmer sso_auSign-khmer sa_auSign-khmer ha_auSign-khmer la_auSign-khmer qa_auSign-khmer nyo_auSign-khmer.less kho_aaSign-khmer.post_ cho_aaSign-khmer.post_ ttho_aaSign-khmer.post_ ba_aaSign-khmer.post_ yo_aaSign-khmer.post_ sso_aaSign-khmer.post_ sa_aaSign-khmer.post_ kho_auSign-khmer.post_ cho_auSign-khmer.post_ ttho_auSign-khmer.post_ ba_auSign-khmer.post_ yo_auSign-khmer.post_ sso_auSign-khmer.post_ sa_auSign-khmer.post_ yo_aaSign-khmer.post2_ yo_auSign-khmer.post2_ beyyal-khmer dottedCircle tittle], # Base
+    , # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb brevecomb ringcomb tildecomb macroncomb cedillacomb slashlongcomb gravecomb.asc acutecomb.asc gravecomb.case acutecomb.case circumflexcomb.case hookabovecomb.case ka-khmer.below kha-khmer.below ko-khmer.below ngo-khmer.below ca-khmer.below cha-khmer.below co-khmer.below nyo-khmer.below nyo-khmer.full.below da-khmer.below ttha-khmer.below do-khmer.below nno-khmer.below ta-khmer.below tha-khmer.below to-khmer.below tho-khmer.below no-khmer.below pha-khmer.below po-khmer.below pho-khmer.below mo-khmer.below lo-khmer.below vo-khmer.below sha-khmer.below ha-khmer.below qa-khmer.below mo-khmer.below2 ha-khmer.below2 iMark-khmer iiMark-khmer yMark-khmer yyMark-khmer iMark_toandakhiat-khmer iMark-khmer.narrow iiMark-khmer.narrow yMark-khmer.narrow yyMark-khmer.narrow iMark_toandakhiat-khmer.narrow uMark-khmer uuMark-khmer uaMark-khmer uMark-khmer.below2 uuMark-khmer.below2 uaMark-khmer.below2 oeSign-khmer nikahit-khmer muusikatoan-khmer triisap-khmer bantoc-khmer robat-khmer toandakhiat-khmer kakabat-khmer ahsda-khmer samyoksannya-khmer viriam-khmer coeng-khmer bathamasat-khmer atthacan-khmer nyo-khmer.full.below.narrow nno-khmer.below.narrow1 nno-khmer.below.narrow2 da-khmer.below.ro ta-khmer.below.ro po-khmer.below.ro pho-khmer.below.ro mo-khmer.below.ro uuMark-khmer.ro uaMark-khmer.ro muusikatoan-khmer.ro toandakhiat-khmer.ro samyoksannya-khmer.ro muusikatoan-khmer.roLiga iMark-khmer.small iiMark-khmer.small yMark-khmer.small yyMark-khmer.small nikahit-khmer.small triisap-khmer.small kakabat-khmer.small samyoksannya-khmer.small], # Mark
+    ;
+} GDEF;
+
+feature aalt {
+# automatic
+feature pres;
+feature blws;
+feature abvs;
+feature psts;
+feature pref;
+feature blwf;
+feature abvf;
+feature pstf;
+feature clig;
+} aalt;
+
+feature pres {
+script khmr;
+
+lookup km_ro_pre2 {
+  sub ro-khmer.pre' [@kmOneCol @kmHalfCol] [@kmCoengsBelow @kmCoengsPost] by ro-khmer.pre2;
+} km_ro_pre2;
+} pres;
 
 feature abvs {
 script khmr;
@@ -668,58 +723,3 @@ sub coeng-khmer sso-khmer by sso-khmer.post;
 sub coeng-khmer sa-khmer by sa-khmer.post;
 } pstf;
 
-feature clig {
-script khmr;
-
-lookup km_nyo_less {
-  sub nyo-khmer' [coeng-khmer @kmCoengsBelow @kmCoengsPost] by nyo-khmer.less;
-  sub nyo-khmer.less nyo-khmer.below' by nyo-khmer.full.below;
-} km_nyo_less;
-
-#**********#
-
-  lookup km_coeng_nyo_narrow {
-  lookupflag UseMarkFilteringSet @coeng_nyo_narrow_filter;
-  sub nyo-khmer.less nyo-khmer.full.below' @kmVowelsBelow2 by nyo-khmer.full.below.narrow;
-  lookupflag 0;
-} km_coeng_nyo_narrow;
-
-#**********#
-
-lookupflag IgnoreMarks; 
-
-lookup km_base_liga {
-  sub @kmLigaBases' lookup base_aa_ligatures [aaSign-khmer auSign-khmer]';
-} km_base_liga;
-
-lookup base_old_aa_au_to_nospace {
-	sub [@kmLigaAA @kmLigaAU] [aaSign-khmer auSign-khmer]' by nospace;
-} base_old_aa_au_to_nospace;
-
-lookupflag 0;
-
-#**********#
-
-lookupflag UseMarkFilteringSet @marks_after_liga;
-
-lookup km_base_marks_after_liga {
-  sub @kmLigaAA nikahit-khmer' lookup nikahit_in_liga;
-  sub @kmLigaAA kakabat-khmer' lookup kakabat_in_liga;
-} km_base_marks_after_liga;
-
-lookupflag 0;
-
-lookup km_ro_pre_narrow {
-  lookupflag UseMarkFilteringSet @blwv_uu_ua;
-  sub ro-khmer.pre' @kmOneCol @blwv_uu_ua by ro-khmer.pre.narrow;
-} km_ro_pre_narrow;
-} clig;
-
-table GDEF {
-  # automatic
-  GlyphClassDef
-    [A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Z a aacute acircumflex adieresis agrave aring atilde ae b c ccedilla d eth e eacute ecircumflex edieresis egrave f g h i idotless iacute icircumflex idieresis igrave j jdotless k l m n ntilde o oacute ocircumflex odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z ka-khmer kha-khmer ko-khmer kho-khmer ngo-khmer ca-khmer cha-khmer co-khmer cho-khmer nyo-khmer da-khmer ttha-khmer do-khmer ttho-khmer nno-khmer ta-khmer tha-khmer to-khmer tho-khmer no-khmer ba-khmer pha-khmer po-khmer pho-khmer mo-khmer yo-khmer ro-khmer lo-khmer vo-khmer sha-khmer sso-khmer sa-khmer ha-khmer la-khmer qa-khmer nyo-khmer.less ry-khmer ryy-khmer ly-khmer lyy-khmer kho-khmer.post cho-khmer.post ttho-khmer.post ba-khmer.post yo-khmer.post sso-khmer.post sa-khmer.post yo-khmer.post2 ka_aaSign-khmer kha_aaSign-khmer ko_aaSign-khmer kho_aaSign-khmer ngo_aaSign-khmer ca_aaSign-khmer cha_aaSign-khmer co_aaSign-khmer cho_aaSign-khmer nyo_aaSign-khmer da_aaSign-khmer ttha_aaSign-khmer do_aaSign-khmer ttho_aaSign-khmer nno_aaSign-khmer ta_aaSign-khmer tha_aaSign-khmer to_aaSign-khmer tho_aaSign-khmer no_aaSign-khmer ba_aaSign-khmer pha_aaSign-khmer po_aaSign-khmer pho_aaSign-khmer mo_aaSign-khmer yo_aaSign-khmer ro_aaSign-khmer lo_aaSign-khmer vo_aaSign-khmer sha_aaSign-khmer sso_aaSign-khmer sa_aaSign-khmer ha_aaSign-khmer la_aaSign-khmer qa_aaSign-khmer nyo_aaSign-khmer.less ka_auSign-khmer kha_auSign-khmer ko_auSign-khmer kho_auSign-khmer ngo_auSign-khmer ca_auSign-khmer cha_auSign-khmer co_auSign-khmer cho_auSign-khmer nyo_auSign-khmer da_auSign-khmer ttha_auSign-khmer do_auSign-khmer ttho_auSign-khmer nno_auSign-khmer ta_auSign-khmer tha_auSign-khmer to_auSign-khmer tho_auSign-khmer no_auSign-khmer ba_auSign-khmer pha_auSign-khmer po_auSign-khmer pho_auSign-khmer mo_auSign-khmer yo_auSign-khmer ro_auSign-khmer lo_auSign-khmer vo_auSign-khmer sha_auSign-khmer sso_auSign-khmer sa_auSign-khmer ha_auSign-khmer la_auSign-khmer qa_auSign-khmer nyo_auSign-khmer.less kho_aaSign-khmer.post_ cho_aaSign-khmer.post_ ttho_aaSign-khmer.post_ ba_aaSign-khmer.post_ yo_aaSign-khmer.post_ sso_aaSign-khmer.post_ sa_aaSign-khmer.post_ kho_auSign-khmer.post_ cho_auSign-khmer.post_ ttho_auSign-khmer.post_ ba_auSign-khmer.post_ yo_auSign-khmer.post_ sso_auSign-khmer.post_ sa_auSign-khmer.post_ yo_aaSign-khmer.post2_ yo_auSign-khmer.post2_ beyyal-khmer dottedCircle tittle], # Base
-    , # Liga
-    [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb brevecomb ringcomb tildecomb macroncomb cedillacomb slashlongcomb gravecomb.asc acutecomb.asc gravecomb.case acutecomb.case circumflexcomb.case hookabovecomb.case ka-khmer.below kha-khmer.below ko-khmer.below ngo-khmer.below ca-khmer.below cha-khmer.below co-khmer.below nyo-khmer.below nyo-khmer.full.below da-khmer.below ttha-khmer.below do-khmer.below nno-khmer.below ta-khmer.below tha-khmer.below to-khmer.below tho-khmer.below no-khmer.below pha-khmer.below po-khmer.below pho-khmer.below mo-khmer.below lo-khmer.below vo-khmer.below sha-khmer.below ha-khmer.below qa-khmer.below mo-khmer.below2 ha-khmer.below2 iMark-khmer iiMark-khmer yMark-khmer yyMark-khmer iMark_toandakhiat-khmer iMark-khmer.narrow iiMark-khmer.narrow yMark-khmer.narrow yyMark-khmer.narrow iMark_toandakhiat-khmer.narrow uMark-khmer uuMark-khmer uaMark-khmer uMark-khmer.below2 uuMark-khmer.below2 uaMark-khmer.below2 oeSign-khmer nikahit-khmer muusikatoan-khmer triisap-khmer bantoc-khmer robat-khmer toandakhiat-khmer kakabat-khmer ahsda-khmer samyoksannya-khmer viriam-khmer coeng-khmer bathamasat-khmer atthacan-khmer nyo-khmer.full.below.narrow nno-khmer.below.narrow1 nno-khmer.below.narrow2 da-khmer.below.ro ta-khmer.below.ro po-khmer.below.ro pho-khmer.below.ro mo-khmer.below.ro uuMark-khmer.ro uaMark-khmer.ro muusikatoan-khmer.ro toandakhiat-khmer.ro samyoksannya-khmer.ro muusikatoan-khmer.roLiga iMark-khmer.small iiMark-khmer.small yMark-khmer.small yyMark-khmer.small nikahit-khmer.small triisap-khmer.small kakabat-khmer.small samyoksannya-khmer.small], # Mark
-    ;
-} GDEF;

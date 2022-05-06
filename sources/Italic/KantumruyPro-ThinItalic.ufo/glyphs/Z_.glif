@@ -1,28 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="521"/>
-  <unicode hex="005A"/>
-  <anchor x="230" y="0" name="bottom"/>
-  <anchor x="438" y="0" name="ogonek"/>
-  <anchor x="343" y="660" name="top"/>
-  <outline>
-    <contour>
-      <point x="-29" y="0" type="line"/>
-      <point x="438" y="0" type="line"/>
-      <point x="442" y="14" type="line"/>
-      <point x="-5" y="14" type="line"/>
-      <point x="564" y="646" type="line"/>
-      <point x="567" y="660" type="line"/>
-      <point x="124" y="660" type="line"/>
-      <point x="121" y="646" type="line"/>
-      <point x="543" y="646" type="line"/>
-      <point x="-26" y="14" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="521"/>
+	<unicode hex="005A"/>
+	<anchor x="438" y="0" name="ogonek"/>
+	<anchor x="230" y="0" name="bottom"/>
+	<anchor x="343" y="660" name="top"/>
+	<outline>
+		<contour>
+			<point x="-29" y="0" type="line"/>
+			<point x="438" y="0" type="line"/>
+			<point x="442" y="14" type="line"/>
+			<point x="-5" y="14" type="line"/>
+			<point x="564" y="646" type="line"/>
+			<point x="567" y="660" type="line"/>
+			<point x="124" y="660" type="line"/>
+			<point x="121" y="646" type="line"/>
+			<point x="543" y="646" type="line"/>
+			<point x="-26" y="14" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

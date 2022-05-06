@@ -1,30 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uaMark-khmer.below2" format="2">
-  <anchor x="-100" y="-258" name="_bottomright"/>
-  <outline>
-    <contour>
-      <point x="-296" y="-458" type="line"/>
-      <point x="-280" y="-458" type="line"/>
-      <point x="-198" y="-391" type="line"/>
-      <point x="-116" y="-458" type="line"/>
-      <point x="-100" y="-458" type="line"/>
-      <point x="-100" y="-308" type="line"/>
-      <point x="-116" y="-308" type="line"/>
-      <point x="-116" y="-438" type="line"/>
-      <point x="-198" y="-372" type="line"/>
-      <point x="-280" y="-438" type="line"/>
-      <point x="-280" y="-308" type="line"/>
-      <point x="-296" y="-308" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-100" y="-258" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-296" y="-458" type="line"/>
+			<point x="-280" y="-458" type="line"/>
+			<point x="-198" y="-391" type="line"/>
+			<point x="-116" y="-458" type="line"/>
+			<point x="-100" y="-458" type="line"/>
+			<point x="-100" y="-308" type="line"/>
+			<point x="-116" y="-308" type="line"/>
+			<point x="-116" y="-438" type="line"/>
+			<point x="-198" y="-372" type="line"/>
+			<point x="-280" y="-438" type="line"/>
+			<point x="-280" y="-308" type="line"/>
+			<point x="-296" y="-308" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

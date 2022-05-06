@@ -1,127 +1,127 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae" format="2">
-  <advance width="863"/>
-  <unicode hex="00E6"/>
-  <anchor x="360" y="0" name="bottom"/>
-  <anchor x="643" y="0" name="ogonek"/>
-  <anchor x="452" y="500" name="top"/>
-  <outline>
-    <contour>
-      <point x="197" y="-10" type="curve" smooth="yes"/>
-      <point x="312" y="-10"/>
-      <point x="393" y="70"/>
-      <point x="405" y="166" type="curve"/>
-      <point x="390" y="155" type="line"/>
-      <point x="390" y="70"/>
-      <point x="465" y="-9"/>
-      <point x="579" y="-9" type="curve" smooth="yes"/>
-      <point x="667" y="-9"/>
-      <point x="737" y="32"/>
-      <point x="779" y="96" type="curve"/>
-      <point x="723" y="134" type="line"/>
-      <point x="694" y="85"/>
-      <point x="650" y="53"/>
-      <point x="585" y="53" type="curve" smooth="yes"/>
-      <point x="499" y="53"/>
-      <point x="444" y="118"/>
-      <point x="444" y="209" type="curve" smooth="yes"/>
-      <point x="444" y="326"/>
-      <point x="497" y="447"/>
-      <point x="628" y="447" type="curve" smooth="yes"/>
-      <point x="694" y="447"/>
-      <point x="739" y="393"/>
-      <point x="739" y="319" type="curve" smooth="yes"/>
-      <point x="739" y="308"/>
-      <point x="739" y="303"/>
-      <point x="738" y="298" type="curve"/>
-      <point x="439" y="298" type="line"/>
-      <point x="431" y="235" type="line"/>
-      <point x="796" y="235" type="line"/>
-      <point x="805" y="264"/>
-      <point x="809" y="293"/>
-      <point x="809" y="317" type="curve" smooth="yes"/>
-      <point x="809" y="427"/>
-      <point x="743" y="509"/>
-      <point x="635" y="509" type="curve" smooth="yes"/>
-      <point x="544" y="509"/>
-      <point x="470" y="465"/>
-      <point x="431" y="400" type="curve"/>
-      <point x="443" y="396" type="line"/>
-      <point x="439" y="456"/>
-      <point x="376" y="509"/>
-      <point x="289" y="509" type="curve" smooth="yes"/>
-      <point x="188" y="509"/>
-      <point x="117" y="466"/>
-      <point x="77" y="389" type="curve"/>
-      <point x="129" y="352" type="line"/>
-      <point x="162" y="418"/>
-      <point x="209" y="447"/>
-      <point x="282" y="447" type="curve" smooth="yes"/>
-      <point x="350" y="447"/>
-      <point x="394" y="407"/>
-      <point x="394" y="346" type="curve" smooth="yes"/>
-      <point x="394" y="335"/>
-      <point x="393" y="323"/>
-      <point x="390" y="309" type="curve" smooth="yes"/>
-      <point x="365" y="197" type="line" smooth="yes"/>
-      <point x="344" y="103"/>
-      <point x="291" y="51"/>
-      <point x="204" y="51" type="curve" smooth="yes"/>
-      <point x="144" y="51"/>
-      <point x="113" y="79"/>
-      <point x="113" y="128" type="curve" smooth="yes"/>
-      <point x="113" y="188"/>
-      <point x="163" y="210"/>
-      <point x="245" y="221" type="curve" smooth="yes"/>
-      <point x="405" y="242" type="line"/>
-      <point x="408" y="298" type="line"/>
-      <point x="220" y="274" type="line" smooth="yes"/>
-      <point x="113" y="260"/>
-      <point x="38" y="216"/>
-      <point x="38" y="126" type="curve" smooth="yes"/>
-      <point x="38" y="48"/>
-      <point x="91" y="-10"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=e</string>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>55</integer>
-            <integer>63</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>510</integer>
-            <integer>63</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="863"/>
+	<unicode hex="00E6"/>
+	<anchor x="643" y="0" name="ogonek"/>
+	<anchor x="360" y="0" name="bottom"/>
+	<anchor x="452" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="197" y="-10" type="curve" smooth="yes"/>
+			<point x="312" y="-10"/>
+			<point x="393" y="70"/>
+			<point x="405" y="166" type="curve"/>
+			<point x="390" y="155" type="line"/>
+			<point x="390" y="70"/>
+			<point x="465" y="-9"/>
+			<point x="579" y="-9" type="curve" smooth="yes"/>
+			<point x="667" y="-9"/>
+			<point x="737" y="32"/>
+			<point x="779" y="96" type="curve"/>
+			<point x="723" y="134" type="line"/>
+			<point x="694" y="85"/>
+			<point x="650" y="53"/>
+			<point x="585" y="53" type="curve" smooth="yes"/>
+			<point x="499" y="53"/>
+			<point x="444" y="118"/>
+			<point x="444" y="209" type="curve" smooth="yes"/>
+			<point x="444" y="326"/>
+			<point x="497" y="447"/>
+			<point x="628" y="447" type="curve" smooth="yes"/>
+			<point x="694" y="447"/>
+			<point x="739" y="393"/>
+			<point x="739" y="319" type="curve" smooth="yes"/>
+			<point x="739" y="308"/>
+			<point x="739" y="303"/>
+			<point x="738" y="298" type="curve"/>
+			<point x="439" y="298" type="line"/>
+			<point x="431" y="235" type="line"/>
+			<point x="796" y="235" type="line"/>
+			<point x="805" y="264"/>
+			<point x="809" y="293"/>
+			<point x="809" y="317" type="curve" smooth="yes"/>
+			<point x="809" y="427"/>
+			<point x="743" y="509"/>
+			<point x="635" y="509" type="curve" smooth="yes"/>
+			<point x="544" y="509"/>
+			<point x="470" y="465"/>
+			<point x="431" y="400" type="curve"/>
+			<point x="443" y="396" type="line"/>
+			<point x="439" y="456"/>
+			<point x="376" y="509"/>
+			<point x="289" y="509" type="curve" smooth="yes"/>
+			<point x="188" y="509"/>
+			<point x="117" y="466"/>
+			<point x="77" y="389" type="curve"/>
+			<point x="129" y="352" type="line"/>
+			<point x="162" y="418"/>
+			<point x="209" y="447"/>
+			<point x="282" y="447" type="curve" smooth="yes"/>
+			<point x="350" y="447"/>
+			<point x="394" y="407"/>
+			<point x="394" y="346" type="curve" smooth="yes"/>
+			<point x="394" y="335"/>
+			<point x="393" y="323"/>
+			<point x="390" y="309" type="curve" smooth="yes"/>
+			<point x="365" y="197" type="line" smooth="yes"/>
+			<point x="344" y="103"/>
+			<point x="291" y="51"/>
+			<point x="204" y="51" type="curve" smooth="yes"/>
+			<point x="144" y="51"/>
+			<point x="113" y="79"/>
+			<point x="113" y="128" type="curve" smooth="yes"/>
+			<point x="113" y="188"/>
+			<point x="163" y="210"/>
+			<point x="245" y="221" type="curve" smooth="yes"/>
+			<point x="405" y="242" type="line"/>
+			<point x="408" y="298" type="line"/>
+			<point x="220" y="274" type="line" smooth="yes"/>
+			<point x="113" y="260"/>
+			<point x="38" y="216"/>
+			<point x="38" y="126" type="curve" smooth="yes"/>
+			<point x="38" y="48"/>
+			<point x="91" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=e</string>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>55</integer>
+						<integer>63</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>510</integer>
+						<integer>63</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

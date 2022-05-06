@@ -1,43 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sevensuperior" format="2">
-  <advance width="287"/>
-  <unicode hex="2077"/>
-  <anchor x="209" y="543" name="_indexring"/>
-  <outline>
-    <contour>
-      <point x="136" y="333" type="curve"/>
-      <point x="152" y="333" type="line"/>
-      <point x="181" y="485"/>
-      <point x="271" y="620"/>
-      <point x="375" y="716" type="curve"/>
-      <point x="378" y="730" type="line"/>
-      <point x="127" y="730" type="line"/>
-      <point x="124" y="716" type="line"/>
-      <point x="356" y="716" type="line"/>
-      <point x="248" y="614"/>
-      <point x="166" y="476"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>740</integer>
-            <integer>24</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="287"/>
+	<unicode hex="2077"/>
+	<anchor x="209" y="543" name="_indexring"/>
+	<outline>
+		<contour>
+			<point x="136" y="333" type="curve"/>
+			<point x="152" y="333" type="line"/>
+			<point x="181" y="485"/>
+			<point x="271" y="620"/>
+			<point x="375" y="716" type="curve"/>
+			<point x="378" y="730" type="line"/>
+			<point x="127" y="730" type="line"/>
+			<point x="124" y="716" type="line"/>
+			<point x="356" y="716" type="line"/>
+			<point x="248" y="614"/>
+			<point x="166" y="476"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>740</integer>
+						<integer>24</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

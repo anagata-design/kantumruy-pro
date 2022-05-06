@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emptyset" format="2">
-  <advance width="789"/>
-  <unicode hex="2205"/>
-  <outline>
-    <contour>
-      <point x="128" y="-14" type="line"/>
-      <point x="756" y="616" type="line"/>
-      <point x="697" y="674" type="line"/>
-      <point x="69" y="44" type="line"/>
-    </contour>
-    <component base="whiteCircle" xOffset="2"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>whiteCircle</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="789"/>
+	<unicode hex="2205"/>
+	<outline>
+		<contour>
+			<point x="128" y="-14" type="line"/>
+			<point x="756" y="616" type="line"/>
+			<point x="697" y="674" type="line"/>
+			<point x="69" y="44" type="line"/>
+		</contour>
+		<component base="whiteCircle" xOffset="2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>whiteCircle</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

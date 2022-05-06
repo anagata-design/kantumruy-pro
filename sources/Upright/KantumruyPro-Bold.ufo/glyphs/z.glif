@@ -1,75 +1,75 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="511"/>
-  <unicode hex="007A"/>
-  <anchor x="249" y="0" name="bottom"/>
-  <anchor x="479" y="0" name="ogonek"/>
-  <anchor x="249" y="500" name="top"/>
-  <outline>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="479" y="0" type="line"/>
-      <point x="479" y="119" type="line"/>
-      <point x="311" y="119" type="line"/>
-      <point x="224" y="117" type="line"/>
-      <point x="278" y="172" type="line"/>
-      <point x="470" y="396" type="line"/>
-      <point x="470" y="500" type="line"/>
-      <point x="37" y="500" type="line"/>
-      <point x="37" y="381" type="line"/>
-      <point x="204" y="381" type="line"/>
-      <point x="282" y="383" type="line"/>
-      <point x="230" y="330" type="line"/>
-      <point x="35" y="104" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>origin</key>
-          <array>
-            <integer>0</integer>
-            <integer>13</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <integer>0</integer>
-            <integer>2</integer>
-          </array>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>origin</key>
-          <array>
-            <integer>0</integer>
-            <integer>7</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <integer>0</integer>
-            <integer>8</integer>
-          </array>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="511"/>
+	<unicode hex="007A"/>
+	<anchor x="479" y="0" name="ogonek"/>
+	<anchor x="249" y="0" name="bottom"/>
+	<anchor x="249" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="35" y="0" type="line"/>
+			<point x="479" y="0" type="line"/>
+			<point x="479" y="119" type="line"/>
+			<point x="311" y="119" type="line"/>
+			<point x="224" y="117" type="line"/>
+			<point x="278" y="172" type="line"/>
+			<point x="470" y="396" type="line"/>
+			<point x="470" y="500" type="line"/>
+			<point x="37" y="500" type="line"/>
+			<point x="37" y="381" type="line"/>
+			<point x="204" y="381" type="line"/>
+			<point x="282" y="383" type="line"/>
+			<point x="230" y="330" type="line"/>
+			<point x="35" y="104" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>13</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>2</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>7</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>8</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

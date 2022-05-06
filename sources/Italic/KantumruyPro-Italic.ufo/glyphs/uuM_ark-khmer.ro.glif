@@ -1,36 +1,37 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uuMark-khmer.ro" format="2">
-  <anchor x="-223" y="0" name="_bottomright"/>
-  <outline>
-    <contour>
-      <point x="-337" y="-268" type="curve" smooth="yes"/>
-      <point x="-262" y="-268"/>
-      <point x="-216" y="-226"/>
-      <point x="-201" y="-163" type="curve" smooth="yes"/>
-      <point x="-177" y="-60" type="line"/>
-      <point x="-243" y="-60" type="line"/>
-      <point x="-266" y="-160" type="line" smooth="yes"/>
-      <point x="-274" y="-193"/>
-      <point x="-299" y="-214"/>
-      <point x="-330" y="-214" type="curve" smooth="yes"/>
-      <point x="-361" y="-214"/>
-      <point x="-378" y="-193"/>
-      <point x="-370" y="-160" type="curve" smooth="yes"/>
-      <point x="-347" y="-60" type="line"/>
-      <point x="-413" y="-60" type="line"/>
-      <point x="-437" y="-163" type="line" smooth="yes"/>
-      <point x="-452" y="-226"/>
-      <point x="-412" y="-268"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-223" y="0" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-337" y="-268" type="curve" smooth="yes"/>
+			<point x="-262" y="-268"/>
+			<point x="-216" y="-226"/>
+			<point x="-201" y="-163" type="curve" smooth="yes"/>
+			<point x="-177" y="-60" type="line"/>
+			<point x="-243" y="-60" type="line"/>
+			<point x="-266" y="-160" type="line" smooth="yes"/>
+			<point x="-274" y="-193"/>
+			<point x="-299" y="-214"/>
+			<point x="-330" y="-214" type="curve" smooth="yes"/>
+			<point x="-361" y="-214"/>
+			<point x="-378" y="-193"/>
+			<point x="-370" y="-160" type="curve" smooth="yes"/>
+			<point x="-347" y="-60" type="line"/>
+			<point x="-413" y="-60" type="line"/>
+			<point x="-437" y="-163" type="line" smooth="yes"/>
+			<point x="-452" y="-226"/>
+			<point x="-412" y="-268"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

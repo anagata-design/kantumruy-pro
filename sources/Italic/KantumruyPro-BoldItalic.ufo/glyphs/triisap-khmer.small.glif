@@ -1,33 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="triisap-khmer.small" format="2">
-  <anchor x="-281" y="606" name="_top"/>
-  <anchor x="-249" y="770" name="top"/>
-  <anchor x="-22" y="770" name="topright"/>
-  <outline>
-    <contour>
-      <point x="-494" y="652" type="line"/>
-      <point x="-382" y="697" type="line"/>
-      <point x="-278" y="657" type="line"/>
-      <point x="-272" y="657" type="line"/>
-      <point x="-150" y="697" type="line"/>
-      <point x="-58" y="652" type="line"/>
-      <point x="-3" y="720" type="line"/>
-      <point x="-125" y="790" type="line"/>
-      <point x="-135" y="790" type="line"/>
-      <point x="-255" y="745" type="line"/>
-      <point x="-355" y="790" type="line"/>
-      <point x="-365" y="790" type="line"/>
-      <point x="-519" y="720" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-247" y="780" name="top"/>
+	<anchor x="-20" y="780" name="topright"/>
+	<anchor x="-281" y="606" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-494" y="652" type="line"/>
+			<point x="-382" y="697" type="line"/>
+			<point x="-278" y="657" type="line"/>
+			<point x="-272" y="657" type="line"/>
+			<point x="-150" y="697" type="line"/>
+			<point x="-58" y="652" type="line"/>
+			<point x="-3" y="720" type="line"/>
+			<point x="-125" y="790" type="line"/>
+			<point x="-135" y="790" type="line"/>
+			<point x="-255" y="745" type="line"/>
+			<point x="-355" y="790" type="line"/>
+			<point x="-365" y="790" type="line"/>
+			<point x="-519" y="720" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-05-06 07:35:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,71 +1,71 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="2">
-  <advance width="578"/>
-  <unicode hex="0078"/>
-  <anchor x="236" y="0" name="bottom"/>
-  <anchor x="515" y="0" name="ogonek"/>
-  <anchor x="341" y="500" name="top"/>
-  <outline>
-    <contour>
-      <point x="-54" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="317" y="234" type="line"/>
-      <point x="380" y="227" type="line"/>
-      <point x="625" y="500" type="line"/>
-      <point x="428" y="500" type="line"/>
-      <point x="254" y="269" type="line"/>
-      <point x="200" y="280" type="line"/>
-    </contour>
-    <contour>
-      <point x="332" y="0" type="line"/>
-      <point x="515" y="0" type="line"/>
-      <point x="386" y="276" type="line"/>
-      <point x="323" y="266" type="line"/>
-      <point x="255" y="500" type="line"/>
-      <point x="71" y="500" type="line"/>
-      <point x="192" y="234" type="line"/>
-      <point x="251" y="237" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>origin</key>
-          <array>
-            <integer>1</integer>
-            <integer>3</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <string>up</string>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>13890</integer>
-            <integer>60</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="578"/>
+	<unicode hex="0078"/>
+	<anchor x="515" y="0" name="ogonek"/>
+	<anchor x="236" y="0" name="bottom"/>
+	<anchor x="341" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="-54" y="0" type="line"/>
+			<point x="150" y="0" type="line"/>
+			<point x="317" y="234" type="line"/>
+			<point x="380" y="227" type="line"/>
+			<point x="625" y="500" type="line"/>
+			<point x="428" y="500" type="line"/>
+			<point x="254" y="269" type="line"/>
+			<point x="200" y="280" type="line"/>
+		</contour>
+		<contour>
+			<point x="332" y="0" type="line"/>
+			<point x="515" y="0" type="line"/>
+			<point x="386" y="276" type="line"/>
+			<point x="323" y="266" type="line"/>
+			<point x="255" y="500" type="line"/>
+			<point x="71" y="500" type="line"/>
+			<point x="192" y="234" type="line"/>
+			<point x="251" y="237" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>1</integer>
+						<integer>3</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<string>up</string>
+					<key>type</key>
+					<string>BottomGhost</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>13890</integer>
+						<integer>60</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

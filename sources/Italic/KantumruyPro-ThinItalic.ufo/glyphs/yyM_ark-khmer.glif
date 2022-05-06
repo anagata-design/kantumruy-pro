@@ -1,51 +1,52 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yyMark-khmer" format="2">
-  <unicode hex="17BA"/>
-  <anchor x="-27" y="592" name="_topright"/>
-  <outline>
-    <contour>
-      <point x="-258" y="690" type="curve" smooth="yes"/>
-      <point x="-4" y="690" type="line"/>
-      <point x="34" y="858" type="line"/>
-      <point x="19" y="858" type="line"/>
-      <point x="-11" y="725" type="line"/>
-      <point x="-13" y="725" type="line"/>
-      <point x="-36" y="777"/>
-      <point x="-102" y="858"/>
-      <point x="-206" y="858" type="curve" smooth="yes"/>
-      <point x="-272" y="858"/>
-      <point x="-318" y="825"/>
-      <point x="-331" y="768" type="curve" smooth="yes"/>
-      <point x="-342" y="721"/>
-      <point x="-315" y="690"/>
-    </contour>
-    <contour>
-      <point x="-255" y="705" type="line" smooth="yes"/>
-      <point x="-302" y="705"/>
-      <point x="-324" y="728"/>
-      <point x="-315" y="766" type="curve" smooth="yes"/>
-      <point x="-304" y="813"/>
-      <point x="-262" y="843"/>
-      <point x="-206" y="843" type="curve" smooth="yes"/>
-      <point x="-102" y="843"/>
-      <point x="-33" y="747"/>
-      <point x="-20" y="705" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-66" y="789" type="line"/>
-      <point x="-45" y="880" type="line"/>
-      <point x="-60" y="880" type="line"/>
-      <point x="-79" y="799" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<unicode hex="17BA"/>
+	<anchor x="-27" y="592" name="_topright"/>
+	<outline>
+		<contour>
+			<point x="-258" y="690" type="curve" smooth="yes"/>
+			<point x="-4" y="690" type="line"/>
+			<point x="34" y="858" type="line"/>
+			<point x="19" y="858" type="line"/>
+			<point x="-11" y="725" type="line"/>
+			<point x="-13" y="725" type="line"/>
+			<point x="-36" y="777"/>
+			<point x="-102" y="858"/>
+			<point x="-206" y="858" type="curve" smooth="yes"/>
+			<point x="-272" y="858"/>
+			<point x="-318" y="825"/>
+			<point x="-331" y="768" type="curve" smooth="yes"/>
+			<point x="-342" y="721"/>
+			<point x="-315" y="690"/>
+		</contour>
+		<contour>
+			<point x="-255" y="705" type="line" smooth="yes"/>
+			<point x="-302" y="705"/>
+			<point x="-324" y="728"/>
+			<point x="-315" y="766" type="curve" smooth="yes"/>
+			<point x="-304" y="813"/>
+			<point x="-262" y="843"/>
+			<point x="-206" y="843" type="curve" smooth="yes"/>
+			<point x="-102" y="843"/>
+			<point x="-33" y="747"/>
+			<point x="-20" y="705" type="curve"/>
+		</contour>
+		<contour>
+			<point x="-66" y="789" type="line"/>
+			<point x="-45" y="880" type="line"/>
+			<point x="-60" y="880" type="line"/>
+			<point x="-79" y="799" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>

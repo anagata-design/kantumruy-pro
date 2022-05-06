@@ -1,69 +1,69 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-  <advance width="300"/>
-  <unicode hex="0021"/>
-  <anchor x="15.838" y="63.148" name="_center"/>
-  <outline>
-    <contour>
-      <point x="71" y="215" type="line"/>
-      <point x="209" y="215" type="line"/>
-      <point x="283" y="447" type="line"/>
-      <point x="332" y="660" type="line"/>
-      <point x="154" y="660" type="line"/>
-      <point x="105" y="447" type="line"/>
-    </contour>
-    <contour>
-      <point x="106.333" y="-8.547" type="curve" smooth="yes"/>
-      <point x="168.609" y="-8.547"/>
-      <point x="207.531" y="29.188"/>
-      <point x="207.531" y="88.619" type="curve" smooth="yes"/>
-      <point x="207.531" y="134.844"/>
-      <point x="171.528" y="161.258"/>
-      <point x="117.037" y="161.258" type="curve" smooth="yes"/>
-      <point x="53.788" y="161.258"/>
-      <point x="15.838" y="122.58"/>
-      <point x="15.838" y="63.148" type="curve" smooth="yes"/>
-      <point x="15.838" y="16.924"/>
-      <point x="51.842" y="-8.547"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <false/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>0</integer>
-            <integer>0</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>-1</integer>
-            <integer>0</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="300"/>
+	<unicode hex="0021"/>
+	<anchor x="15.838" y="63.148" name="_center"/>
+	<outline>
+		<contour>
+			<point x="71" y="215" type="line"/>
+			<point x="209" y="215" type="line"/>
+			<point x="283" y="447" type="line"/>
+			<point x="332" y="660" type="line"/>
+			<point x="154" y="660" type="line"/>
+			<point x="105" y="447" type="line"/>
+		</contour>
+		<contour>
+			<point x="106.333" y="-8.547" type="curve" smooth="yes"/>
+			<point x="168.609" y="-8.547"/>
+			<point x="207.531" y="29.188"/>
+			<point x="207.531" y="88.619" type="curve" smooth="yes"/>
+			<point x="207.531" y="134.844"/>
+			<point x="171.528" y="161.258"/>
+			<point x="117.037" y="161.258" type="curve" smooth="yes"/>
+			<point x="53.788" y="161.258"/>
+			<point x="15.838" y="122.58"/>
+			<point x="15.838" y="63.148" type="curve" smooth="yes"/>
+			<point x="15.838" y="16.924"/>
+			<point x="51.842" y="-8.547"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<integer>0</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>0</integer>
+						<integer>0</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<integer>1</integer>
+					<key>options</key>
+					<integer>0</integer>
+					<key>place</key>
+					<array>
+						<integer>-1</integer>
+						<integer>0</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

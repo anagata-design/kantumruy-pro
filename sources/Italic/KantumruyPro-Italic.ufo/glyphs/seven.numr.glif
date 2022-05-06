@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numr" format="2">
-  <advance width="305"/>
-  <outline>
-    <component base="sevensuperior" xOffset="-15" yOffset="-65"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>sevensuperior</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>sevensuperior</string>
-    </dict>
-  </lib>
+	<advance width="305"/>
+	<outline>
+		<component base="sevensuperior" xOffset="-15" yOffset="-65"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>sevensuperior</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>sevensuperior</string>
+		</dict>
+	</lib>
 </glyph>

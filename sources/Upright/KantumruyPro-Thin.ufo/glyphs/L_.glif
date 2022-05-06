@@ -1,28 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="515"/>
-  <unicode hex="004C"/>
-  <anchor x="316" y="0" name="bottom"/>
-  <anchor x="341" y="344" name="center"/>
-  <anchor x="503" y="0" name="ogonek"/>
-  <anchor x="107" y="660" name="top"/>
-  <anchor x="306" y="660" name="topright"/>
-  <outline>
-    <contour>
-      <point x="115" y="14" type="line"/>
-      <point x="115" y="660" type="line"/>
-      <point x="99" y="660" type="line"/>
-      <point x="99" y="0" type="line"/>
-      <point x="503" y="0" type="line"/>
-      <point x="503" y="14" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
+	<advance width="515"/>
+	<unicode hex="004C"/>
+	<anchor x="341" y="344" name="center"/>
+	<anchor x="503" y="0" name="ogonek"/>
+	<anchor x="107" y="660" name="top"/>
+	<anchor x="306" y="660" name="topright"/>
+	<anchor x="316" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="115" y="14" type="line"/>
+			<point x="115" y="660" type="line"/>
+			<point x="99" y="660" type="line"/>
+			<point x="99" y="0" type="line"/>
+			<point x="503" y="0" type="line"/>
+			<point x="503" y="14" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdblsuperior" format="2">
-  <advance width="399"/>
-  <outline>
-    <contour>
-      <point x="360" y="587" type="line"/>
-      <point x="39" y="587" type="line"/>
-      <point x="39" y="574" type="line"/>
-      <point x="360" y="574" type="line"/>
-    </contour>
-    <contour>
-      <point x="203" y="283" type="line"/>
-      <point x="203" y="730" type="line"/>
-      <point x="187" y="730" type="line"/>
-      <point x="187" y="283" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="426" type="line"/>
-      <point x="360" y="439" type="line"/>
-      <point x="39" y="439" type="line"/>
-      <point x="39" y="426" type="line"/>
-    </contour>
-  </outline>
+	<advance width="399"/>
+	<outline>
+		<contour>
+			<point x="360" y="587" type="line"/>
+			<point x="39" y="587" type="line"/>
+			<point x="39" y="574" type="line"/>
+			<point x="360" y="574" type="line"/>
+		</contour>
+		<contour>
+			<point x="203" y="283" type="line"/>
+			<point x="203" y="730" type="line"/>
+			<point x="187" y="730" type="line"/>
+			<point x="187" y="283" type="line"/>
+		</contour>
+		<contour>
+			<point x="360" y="426" type="line"/>
+			<point x="360" y="439" type="line"/>
+			<point x="39" y="439" type="line"/>
+			<point x="39" y="426" type="line"/>
+		</contour>
+	</outline>
 </glyph>

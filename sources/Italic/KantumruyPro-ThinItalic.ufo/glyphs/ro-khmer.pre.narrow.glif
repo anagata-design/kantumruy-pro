@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ro-khmer.pre.narrow" format="2">
-  <advance width="242"/>
-  <outline>
-    <component base="ro-khmer.pre"/>
-  </outline>
+	<advance width="242"/>
+	<outline>
+		<component base="ro-khmer.pre"/>
+	</outline>
 </glyph>

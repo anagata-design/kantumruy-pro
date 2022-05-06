@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="2">
-  <advance width="698"/>
-  <unicode hex="00DC"/>
-  <anchor x="349" y="0" name="bottom"/>
-  <anchor x="479" y="9" name="ogonek"/>
-  <anchor x="349" y="840" name="top"/>
-  <anchor x="349" y="635" name="top_ring"/>
-  <anchor x="642" y="660" name="topright"/>
-  <outline>
-    <component base="U"/>
-    <component base="dieresiscomb" xOffset="349" yOffset="150"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="698"/>
+	<unicode hex="00DC"/>
+	<anchor x="349" y="635" name="top_ring"/>
+	<anchor x="479" y="9" name="ogonek"/>
+	<anchor x="349" y="840" name="top"/>
+	<anchor x="642" y="660" name="topright"/>
+	<anchor x="349" y="0" name="bottom"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresiscomb" xOffset="349" yOffset="150"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>

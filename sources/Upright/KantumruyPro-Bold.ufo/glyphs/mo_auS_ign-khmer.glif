@@ -1,42 +1,42 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mo_auSign-khmer" format="2">
-  <advance width="964"/>
-  <anchor x="321" y="0" name="bottom"/>
-  <anchor x="556" y="0" name="bottomright"/>
-  <anchor x="321" y="606" name="top"/>
-  <anchor x="554" y="606" name="topright"/>
-  <outline>
-    <contour>
-      <point x="726" y="504" type="line"/>
-      <point x="746" y="504" type="line"/>
-      <point x="816" y="527"/>
-      <point x="888" y="585"/>
-      <point x="888" y="634" type="curve"/>
-      <point x="888" y="734" type="line" smooth="yes"/>
-      <point x="888" y="795"/>
-      <point x="855" y="824"/>
-      <point x="788" y="824" type="curve" smooth="yes"/>
-      <point x="666" y="824" type="line"/>
-      <point x="666" y="720" type="line"/>
-      <point x="702" y="720" type="line" smooth="yes"/>
-      <point x="718" y="720"/>
-      <point x="726" y="712"/>
-      <point x="726" y="696" type="curve" smooth="yes"/>
-    </contour>
-    <component base="mo_aaSign-khmer"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Letter</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>mo-khmer</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>auSign-khmer</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Other</string>
-    </dict>
-  </lib>
+	<advance width="964"/>
+	<anchor x="321" y="606" name="top"/>
+	<anchor x="554" y="606" name="topright"/>
+	<anchor x="556" y="0" name="bottomright"/>
+	<anchor x="321" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="726" y="504" type="line"/>
+			<point x="746" y="504" type="line"/>
+			<point x="816" y="527"/>
+			<point x="888" y="585"/>
+			<point x="888" y="634" type="curve"/>
+			<point x="888" y="734" type="line" smooth="yes"/>
+			<point x="888" y="795"/>
+			<point x="855" y="824"/>
+			<point x="788" y="824" type="curve" smooth="yes"/>
+			<point x="666" y="824" type="line"/>
+			<point x="666" y="720" type="line"/>
+			<point x="702" y="720" type="line" smooth="yes"/>
+			<point x="718" y="720"/>
+			<point x="726" y="712"/>
+			<point x="726" y="696" type="curve" smooth="yes"/>
+		</contour>
+		<component base="mo_aaSign-khmer"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>mo-khmer</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>auSign-khmer</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
 </glyph>

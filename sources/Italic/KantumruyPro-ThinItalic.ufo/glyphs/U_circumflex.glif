@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="644"/>
-  <unicode hex="00DB"/>
-  <anchor x="239" y="0" name="bottom"/>
-  <anchor x="324" y="-8" name="ogonek"/>
-  <anchor x="408" y="620" name="top"/>
-  <anchor x="403" y="598" name="top_ring"/>
-  <anchor x="665" y="660" name="topright"/>
-  <outline>
-    <component base="U"/>
-    <component base="circumflexcomb.case" xOffset="313" yOffset="-40"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
+	<advance width="644"/>
+	<unicode hex="00DB"/>
+	<anchor x="403" y="598" name="top_ring"/>
+	<anchor x="324" y="-8" name="ogonek"/>
+	<anchor x="408" y="620" name="top"/>
+	<anchor x="665" y="660" name="topright"/>
+	<anchor x="239" y="0" name="bottom"/>
+	<outline>
+		<component base="U"/>
+		<component base="circumflexcomb.case" xOffset="313" yOffset="-40"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
 </glyph>
