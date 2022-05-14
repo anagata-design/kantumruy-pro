@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb" format="2">
-	<advance width="0"/>
 	<unicode hex="0327"/>
-	<anchor x="9" y="0" name="_bottom"/>
-	<anchor x="-2" y="-202" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="-27" y="3" type="line"/>
@@ -28,6 +25,8 @@
 			<point x="-6" y="3" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="9" y="0"/>
+	<anchor name="bottom" x="-2" y="-202"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.originalWidth</key>

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-	<advance width="685"/>
 	<unicode hex="00D8"/>
-	<anchor x="361" y="330" name="center"/>
-	<anchor x="376" y="-6" name="ogonek"/>
-	<anchor x="408" y="660" name="top"/>
-	<anchor x="567" y="660" name="topright"/>
-	<anchor x="103" y="660" name="topleft"/>
-	<anchor x="313" y="0" name="bottom"/>
+	<advance width="685"/>
 	<outline>
 		<contour>
 			<point x="155" y="71" type="line"/>
@@ -29,6 +23,12 @@
 		</contour>
 		<component base="O"/>
 	</outline>
+	<anchor name="bottom" x="313" y="0"/>
+	<anchor name="center" x="361" y="330"/>
+	<anchor name="ogonek" x="376" y="-6"/>
+	<anchor name="top" x="408" y="660"/>
+	<anchor name="topleft" x="103" y="660"/>
+	<anchor name="topright" x="567" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

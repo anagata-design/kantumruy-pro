@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ugrave" format="2">
-	<advance width="707"/>
 	<unicode hex="00D9"/>
-	<anchor x="431" y="635" name="top_ring"/>
-	<anchor x="422" y="0" name="ogonek"/>
-	<anchor x="488" y="868" name="top"/>
-	<anchor x="735" y="660" name="topright"/>
-	<anchor x="301" y="0" name="bottom"/>
+	<advance width="707"/>
 	<outline>
 		<component base="U"/>
 		<component base="gravecomb.case" xOffset="344" yOffset="-8"/>
 	</outline>
+	<anchor name="bottom" x="301" y="0"/>
+	<anchor name="ogonek" x="422" y="0"/>
+	<anchor name="top" x="488" y="868"/>
+	<anchor name="top_ring" x="431" y="635"/>
+	<anchor name="topright" x="735" y="660"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

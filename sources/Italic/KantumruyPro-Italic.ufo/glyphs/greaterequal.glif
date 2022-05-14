@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-	<advance width="591"/>
 	<unicode hex="2265"/>
+	<advance width="591"/>
 	<outline>
 		<contour>
 			<point x="18" y="126" type="line"/>

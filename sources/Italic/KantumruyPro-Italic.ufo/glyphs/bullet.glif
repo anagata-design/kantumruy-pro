@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="2">
-	<advance width="423"/>
 	<unicode hex="2022"/>
+	<advance width="423"/>
 	<outline>
 		<contour>
 			<point x="225" y="223" type="curve" smooth="yes"/>

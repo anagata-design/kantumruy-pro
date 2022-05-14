@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-	<advance width="283"/>
 	<unicode hex="006A"/>
-	<anchor x="10" y="-204" name="ogonek"/>
-	<anchor x="-40" y="-210" name="bottom"/>
-	<anchor x="245" y="711" name="top"/>
+	<advance width="283"/>
 	<outline>
 		<component base="jdotless"/>
 		<component base="tittle" xOffset="-5"/>
 	</outline>
+	<anchor name="bottom" x="-40" y="-210"/>
+	<anchor name="ogonek" x="10" y="-204"/>
+	<anchor name="top" x="245" y="711"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -30,7 +30,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -47,7 +47,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -62,7 +62,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

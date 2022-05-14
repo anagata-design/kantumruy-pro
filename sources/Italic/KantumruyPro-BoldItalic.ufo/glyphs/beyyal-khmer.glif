@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beyyal-khmer" format="2">
-	<advance width="2166"/>
 	<unicode hex="17D8"/>
-	<anchor x="1331" y="606" name="top"/>
-	<anchor x="1573" y="606" name="topright"/>
-	<anchor x="1423" y="0" name="bottomright"/>
-	<anchor x="1191" y="0" name="bottom"/>
+	<advance width="2166"/>
 	<outline>
 		<component base="khan-khmer"/>
 		<component base="lo-khmer" xOffset="618"/>
 		<component base="khan-khmer" xOffset="1548"/>
 	</outline>
+	<anchor name="bottom" x="1191" y="0"/>
+	<anchor name="bottomright" x="1423" y="0"/>
+	<anchor name="top" x="1331" y="606"/>
+	<anchor name="topright" x="1573" y="606"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

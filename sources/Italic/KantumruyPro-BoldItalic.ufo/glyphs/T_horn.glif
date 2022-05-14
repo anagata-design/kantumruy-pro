@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Thorn" format="2">
-	<advance width="660"/>
 	<unicode hex="00DE"/>
-	<anchor x="186" y="0" name="ogonek"/>
-	<anchor x="100" y="0" name="bottom"/>
-	<anchor x="253" y="660" name="top"/>
+	<advance width="660"/>
 	<outline>
 		<contour>
 			<point x="142" y="114" type="line"/>
@@ -33,12 +30,15 @@
 			<point x="167" y="660" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="100" y="0"/>
+	<anchor name="ogonek" x="186" y="0"/>
+	<anchor name="top" x="253" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
 			<string>H</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==I</string>
+			<string>=I</string>
 			<key>public.markColor</key>
 			<string>0.5,0.09,0.79,1</string>
 		</dict>

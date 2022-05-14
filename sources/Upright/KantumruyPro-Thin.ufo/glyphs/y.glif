@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="2">
-	<advance width="453"/>
 	<unicode hex="0079"/>
-	<anchor x="107" y="-210" name="ogonek"/>
-	<anchor x="229" y="480" name="top"/>
-	<anchor x="235" y="427" name="top_hook"/>
-	<anchor x="339" y="-75" name="bottom"/>
+	<advance width="453"/>
 	<outline>
 		<contour>
 			<point x="431" y="500" type="line"/>
@@ -33,6 +29,10 @@
 			<point x="198" y="-101" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="339" y="-75"/>
+	<anchor name="ogonek" x="107" y="-210"/>
+	<anchor name="top" x="229" y="480"/>
+	<anchor name="top_hook" x="235" y="427"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

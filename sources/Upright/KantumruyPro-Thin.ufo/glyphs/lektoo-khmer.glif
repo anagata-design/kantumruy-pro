@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lektoo-khmer" format="2">
-	<advance width="536"/>
 	<unicode hex="17D7"/>
+	<advance width="536"/>
 	<outline>
 		<contour>
 			<point x="283" y="-209" type="curve" smooth="yes"/>

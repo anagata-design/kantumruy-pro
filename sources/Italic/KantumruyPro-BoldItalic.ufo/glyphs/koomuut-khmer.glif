@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="koomuut-khmer" format="2">
-	<advance width="1180"/>
 	<unicode hex="17DA"/>
+	<advance width="1180"/>
 	<outline>
 		<contour>
 			<point x="237" y="54" type="curve" smooth="yes"/>

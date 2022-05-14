@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-	<advance width="557"/>
 	<unicode hex="0062"/>
-	<anchor x="341" y="21" name="ogonek"/>
-	<anchor x="225" y="0" name="bottom"/>
-	<anchor x="189" y="680" name="top"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point x="325" y="510" type="curve" smooth="yes"/>
@@ -40,6 +37,9 @@
 			<point x="404" y="4"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="225" y="0"/>
+	<anchor name="ogonek" x="341" y="21"/>
+	<anchor name="top" x="189" y="680"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
@@ -47,7 +47,7 @@
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
 			<string>p</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==p</string>
+			<string>=p</string>
 			<key>public.markColor</key>
 			<string>0.5,0.09,0.79,1</string>
 		</dict>

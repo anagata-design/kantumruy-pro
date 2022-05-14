@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="2">
-	<advance width="551"/>
 	<unicode hex="00FD"/>
-	<anchor x="79" y="-210" name="ogonek"/>
-	<anchor x="409" y="719" name="top"/>
-	<anchor x="317" y="464" name="top_hook"/>
-	<anchor x="429" y="0" name="bottom"/>
+	<advance width="551"/>
 	<outline>
 		<component base="y"/>
 		<component base="acutecomb" xOffset="288" yOffset="-4"/>
 	</outline>
+	<anchor name="bottom" x="429" y="0"/>
+	<anchor name="ogonek" x="79" y="-210"/>
+	<anchor name="top" x="409" y="719"/>
+	<anchor name="top_hook" x="317" y="464"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

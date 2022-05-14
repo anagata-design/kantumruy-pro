@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-	<advance width="594"/>
 	<unicode hex="004C"/>
-	<anchor x="401" y="376" name="center"/>
-	<anchor x="509" y="0" name="ogonek"/>
-	<anchor x="253" y="660" name="top"/>
-	<anchor x="472" y="660" name="topright"/>
-	<anchor x="274" y="0" name="bottom"/>
+	<advance width="594"/>
 	<outline>
 		<contour>
 			<point x="218" y="133" type="line"/>
@@ -17,6 +12,11 @@
 			<point x="541" y="133" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="274" y="0"/>
+	<anchor name="center" x="401" y="376"/>
+	<anchor name="ogonek" x="509" y="0"/>
+	<anchor name="top" x="253" y="660"/>
+	<anchor name="topright" x="472" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

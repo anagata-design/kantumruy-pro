@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-	<advance width="619"/>
 	<unicode hex="00C5"/>
-	<anchor x="423" y="813" name="top_ring"/>
-	<anchor x="539" y="0" name="ogonek"/>
-	<anchor x="397" y="660" name="top"/>
-	<anchor x="279" y="0" name="bottom"/>
+	<advance width="619"/>
 	<outline>
 		<component base="A"/>
 		<component base="ringcomb" xOffset="315" yOffset="39"/>
 	</outline>
+	<anchor name="bottom" x="279" y="0"/>
+	<anchor name="ogonek" x="539" y="0"/>
+	<anchor name="top" x="397" y="660"/>
+	<anchor name="top_ring" x="423" y="813"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

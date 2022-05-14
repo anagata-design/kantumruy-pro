@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bariyoosan-khmer" format="2">
-	<advance width="782"/>
 	<unicode hex="17D5"/>
+	<advance width="782"/>
 	<outline>
 		<contour>
 			<point x="357" y="0" type="line"/>

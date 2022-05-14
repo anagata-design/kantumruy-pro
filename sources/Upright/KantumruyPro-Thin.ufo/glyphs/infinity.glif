@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="infinity" format="2">
-	<advance width="866"/>
 	<unicode hex="221E"/>
+	<advance width="866"/>
 	<outline>
 		<contour>
 			<point x="661" y="495" type="curve" smooth="yes"/>

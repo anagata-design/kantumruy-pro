@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nno-khmer.below" format="2">
-	<advance width="0"/>
-	<anchor x="-526" y="0" name="_bottom"/>
-	<anchor x="-526" y="-258" name="bottom"/>
-	<anchor x="-374" y="-258" name="bottomright"/>
 	<outline>
 		<contour>
 			<point x="-881" y="-264" type="curve" smooth="yes"/>
@@ -66,6 +62,9 @@
 			<point x="-865" y="-232"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="-526" y="0"/>
+	<anchor name="bottom" x="-526" y="-258"/>
+	<anchor name="bottomright" x="-374" y="-258"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

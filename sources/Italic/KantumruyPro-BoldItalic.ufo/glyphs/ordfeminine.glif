@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="2">
-	<advance width="422"/>
 	<unicode hex="00AA"/>
+	<advance width="422"/>
 	<outline>
 		<contour>
 			<point x="179" y="306" type="curve" smooth="yes"/>
@@ -51,7 +51,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -66,7 +66,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -81,7 +81,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

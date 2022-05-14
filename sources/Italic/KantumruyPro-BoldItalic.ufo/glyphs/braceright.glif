@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceright" format="2">
-	<advance width="412"/>
 	<unicode hex="007D"/>
+	<advance width="412"/>
 	<outline>
 		<contour>
 			<point x="-88" y="-191" type="line"/>
@@ -53,7 +53,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -68,7 +68,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -83,7 +83,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -98,7 +98,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

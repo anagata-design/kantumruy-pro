@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="muusikatoan-khmer" format="2">
-	<advance width="0"/>
 	<unicode hex="17C9"/>
-	<anchor x="-127" y="594" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-209" y="670" type="line"/>
@@ -17,6 +15,7 @@
 			<point x="-28" y="858" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-127" y="594"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

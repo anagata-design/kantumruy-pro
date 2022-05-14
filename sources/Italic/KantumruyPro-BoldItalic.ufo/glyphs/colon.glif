@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-	<advance width="286"/>
 	<unicode hex="003A"/>
-	<anchor x="6" y="68" name="_center"/>
+	<advance width="286"/>
 	<outline>
 		<contour>
 			<point x="177" y="330" type="curve" smooth="yes"/>
@@ -33,17 +32,18 @@
 			<point x="43" y="-8"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="6" y="68"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==period</string>
+			<string>=period</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==period</string>
+			<string>=period</string>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -58,7 +58,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-	<advance width="691"/>
 	<unicode hex="00D0"/>
-	<anchor x="341" y="330" name="center"/>
-	<anchor x="291" y="0" name="ogonek"/>
-	<anchor x="298" y="660" name="top"/>
-	<anchor x="298" y="0" name="bottom"/>
+	<advance width="691"/>
 	<outline>
 		<contour>
 			<point x="5" y="327" type="line"/>
@@ -15,6 +11,10 @@
 		</contour>
 		<component base="D"/>
 	</outline>
+	<anchor name="bottom" x="298" y="0"/>
+	<anchor name="center" x="341" y="330"/>
+	<anchor name="ogonek" x="291" y="0"/>
+	<anchor name="top" x="298" y="660"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

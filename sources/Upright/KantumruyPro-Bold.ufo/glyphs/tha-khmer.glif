@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tha-khmer" format="2">
-	<advance width="646"/>
 	<unicode hex="1790"/>
-	<anchor x="323" y="606" name="top"/>
-	<anchor x="570" y="606" name="topright"/>
-	<anchor x="568" y="0" name="bottomright"/>
-	<anchor x="323" y="0" name="bottom"/>
+	<advance width="646"/>
 	<outline>
 		<contour>
 			<point x="323" y="-10" type="curve" smooth="yes"/>
@@ -75,4 +71,8 @@
 			<point x="404" y="350"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="323" y="0"/>
+	<anchor name="bottomright" x="568" y="0"/>
+	<anchor name="top" x="323" y="606"/>
+	<anchor name="topright" x="570" y="606"/>
 </glyph>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="2">
-	<advance width="286"/>
 	<unicode hex="00B7"/>
-	<anchor x="69" y="340" name="_center"/>
+	<advance width="286"/>
 	<outline>
 		<contour>
 			<point x="162" y="264" type="curve" smooth="yes"/>
@@ -19,17 +18,18 @@
 			<point x="106" y="264"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="69" y="340"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==period</string>
+			<string>=period</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==period</string>
+			<string>=period</string>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

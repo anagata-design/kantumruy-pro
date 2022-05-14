@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-	<advance width="467"/>
 	<unicode hex="005C"/>
+	<advance width="467"/>
 	<outline>
 		<contour>
 			<point x="106" y="712" type="line"/>
@@ -17,9 +17,9 @@
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
 			<string>=|slash</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==|slash</string>
+			<string>=|slash</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==|slash</string>
+			<string>=|slash</string>
 			<key>public.markColor</key>
 			<string>0.5,0.09,0.79,1</string>
 		</dict>

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
-	<advance width="315"/>
 	<unicode hex="0072"/>
-	<anchor x="101" y="0" name="ogonek"/>
-	<anchor x="93" y="0" name="bottom"/>
-	<anchor x="189" y="500" name="top"/>
+	<advance width="315"/>
 	<outline>
 		<contour>
 			<point x="85" y="0" type="line"/>
@@ -27,6 +24,9 @@
 			<point x="85" y="500" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="93" y="0"/>
+	<anchor name="ogonek" x="101" y="0"/>
+	<anchor name="top" x="189" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

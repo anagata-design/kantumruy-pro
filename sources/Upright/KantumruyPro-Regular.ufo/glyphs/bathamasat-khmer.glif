@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bathamasat-khmer" format="2">
-	<advance width="0"/>
 	<unicode hex="17D3"/>
-	<anchor x="-197" y="594" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-197" y="664" type="curve" smooth="yes"/>
@@ -33,6 +31,7 @@
 			<point x="-173" y="712"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-197" y="594"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

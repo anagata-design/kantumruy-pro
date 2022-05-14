@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="2">
-	<advance width="562"/>
 	<unicode hex="00E7"/>
-	<anchor x="414" y="13" name="ogonek"/>
-	<anchor x="272" y="-215" name="bottom"/>
-	<anchor x="292" y="500" name="top"/>
+	<advance width="562"/>
 	<outline>
 		<component base="c"/>
 		<component base="cedillacomb" xOffset="296"/>
 	</outline>
+	<anchor name="bottom" x="272" y="-215"/>
+	<anchor name="ogonek" x="414" y="13"/>
+	<anchor name="top" x="292" y="500"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

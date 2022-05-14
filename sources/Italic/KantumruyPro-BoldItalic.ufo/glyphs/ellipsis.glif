@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-	<advance width="921"/>
 	<unicode hex="2026"/>
-	<anchor x="631" y="68" name="_center"/>
+	<advance width="921"/>
 	<outline>
 		<contour>
 			<point x="724" y="-8" type="curve" smooth="yes"/>
@@ -47,13 +46,14 @@
 			<point x="53" y="-8"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="631" y="68"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -68,7 +68,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -83,7 +83,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

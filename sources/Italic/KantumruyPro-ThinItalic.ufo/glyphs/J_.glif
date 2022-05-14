@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-	<advance width="461"/>
 	<unicode hex="004A"/>
-	<anchor x="195" y="-5" name="ogonek"/>
-	<anchor x="144" y="1" name="bottom"/>
-	<anchor x="463" y="660" name="top"/>
+	<advance width="461"/>
 	<outline>
 		<contour>
 			<point x="165" y="-10" type="curve" smooth="yes"/>
@@ -25,6 +22,9 @@
 			<point x="44" y="-10"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="144" y="1"/>
+	<anchor name="ogonek" x="195" y="-5"/>
+	<anchor name="top" x="463" y="660"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

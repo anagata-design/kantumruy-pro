@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-	<advance width="722"/>
 	<unicode hex="0051"/>
-	<anchor x="379" y="330" name="center"/>
-	<anchor x="457" y="-197" name="ogonek"/>
-	<anchor x="433" y="660" name="top"/>
-	<anchor x="664" y="660" name="topright"/>
-	<anchor x="116" y="660" name="topleft"/>
-	<anchor x="251" y="-210" name="bottom"/>
+	<advance width="722"/>
 	<outline>
 		<contour>
 			<point x="450" y="-204" type="curve" smooth="yes"/>
@@ -33,6 +27,12 @@
 		</contour>
 		<component base="O"/>
 	</outline>
+	<anchor name="bottom" x="251" y="-210"/>
+	<anchor name="ogonek" x="457" y="-197"/>
+	<anchor name="center" x="379" y="330"/>
+	<anchor name="top" x="433" y="660"/>
+	<anchor name="topleft" x="116" y="660"/>
+	<anchor name="topright" x="664" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
@@ -51,14 +51,14 @@
 			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
 			<string>O</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==O</string>
+			<string>=O</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==O</string>
+			<string>=O</string>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="2">
-	<advance width="624"/>
 	<unicode hex="00F7"/>
-	<anchor x="225.979" y="110.342" name="_center"/>
+	<advance width="624"/>
 	<outline>
 		<contour>
 			<point x="564" y="386" type="line"/>
@@ -39,6 +38,7 @@
 			<point x="258.895" y="457.74"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="225.979" y="110.342"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
@@ -49,7 +49,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -69,7 +69,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

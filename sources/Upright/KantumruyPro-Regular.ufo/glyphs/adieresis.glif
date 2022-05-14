@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="2">
-	<advance width="524"/>
 	<unicode hex="00E4"/>
-	<anchor x="515" y="3" name="ogonek"/>
-	<anchor x="264" y="0" name="bottom"/>
-	<anchor x="264" y="665" name="top"/>
+	<advance width="524"/>
 	<outline>
 		<component base="a"/>
 		<component base="dieresiscomb" xOffset="264"/>
 	</outline>
+	<anchor name="bottom" x="264" y="0"/>
+	<anchor name="ogonek" x="515" y="3"/>
+	<anchor name="top" x="264" y="665"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

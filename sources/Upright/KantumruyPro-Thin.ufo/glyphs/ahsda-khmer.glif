@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ahsda-khmer" format="2">
-	<advance width="0"/>
 	<unicode hex="17CF"/>
-	<anchor x="-229" y="592" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-293" y="686" type="curve" smooth="yes"/>
@@ -46,6 +44,7 @@
 			<point x="-333" y="686"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-229" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

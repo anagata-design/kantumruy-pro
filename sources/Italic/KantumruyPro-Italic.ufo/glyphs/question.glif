@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
-	<advance width="512"/>
 	<unicode hex="003F"/>
-	<anchor x="142" y="42" name="_center"/>
+	<advance width="512"/>
 	<outline>
 		<contour>
 			<point x="195" y="201" type="line"/>
@@ -43,6 +42,7 @@
 			<point x="165" y="-9"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="142" y="42"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ieSign-khmer" format="2">
-	<advance width="252"/>
 	<unicode hex="17C0"/>
+	<advance width="252"/>
 	<outline>
 		<contour>
 			<point x="20" y="-264" type="curve" smooth="yes"/>

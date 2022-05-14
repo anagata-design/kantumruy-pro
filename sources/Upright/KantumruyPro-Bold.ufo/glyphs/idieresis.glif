@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-	<advance width="291"/>
 	<unicode hex="00EF"/>
-	<anchor x="231" y="0" name="ogonek"/>
-	<anchor x="146" y="0" name="bottom"/>
-	<anchor x="146" y="500" name="top"/>
+	<advance width="291"/>
 	<outline>
 		<contour>
 			<point x="242" y="554" type="curve" smooth="yes"/>
@@ -36,6 +33,9 @@
 		</contour>
 		<component base="idotless"/>
 	</outline>
+	<anchor name="bottom" x="146" y="0"/>
+	<anchor name="ogonek" x="231" y="0"/>
+	<anchor name="top" x="146" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
@@ -53,7 +53,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyo-khmer" format="2">
-	<advance width="926"/>
 	<unicode hex="1789"/>
-	<anchor x="626" y="594" name="top"/>
-	<anchor x="810" y="594" name="topright"/>
-	<anchor x="810" y="-258" name="bottomright"/>
-	<anchor x="626" y="-258" name="bottom"/>
+	<advance width="926"/>
 	<outline>
 		<contour>
 			<point x="582" y="-258" type="curve" smooth="yes"/>
@@ -41,4 +37,8 @@
 		</contour>
 		<component base="nyo-khmer.less"/>
 	</outline>
+	<anchor name="bottom" x="626" y="-258"/>
+	<anchor name="bottomright" x="810" y="-258"/>
+	<anchor name="top" x="626" y="594"/>
+	<anchor name="topright" x="810" y="594"/>
 </glyph>

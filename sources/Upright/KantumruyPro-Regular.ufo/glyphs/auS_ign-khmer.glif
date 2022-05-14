@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="auSign-khmer" format="2">
-	<advance width="326"/>
 	<unicode hex="17C5"/>
+	<advance width="326"/>
 	<outline>
 		<contour>
 			<point x="148" y="524" type="line"/>

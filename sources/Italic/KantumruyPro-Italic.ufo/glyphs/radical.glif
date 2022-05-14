@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="2">
-	<advance width="589"/>
 	<unicode hex="221A"/>
+	<advance width="589"/>
 	<outline>
 		<contour>
 			<point x="297" y="0" type="line"/>

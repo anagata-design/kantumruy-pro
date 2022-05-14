@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-	<advance width="432"/>
 	<unicode hex="0074"/>
-	<anchor x="217" y="250" name="center"/>
-	<anchor x="390" y="13" name="ogonek"/>
-	<anchor x="183" y="652" name="top"/>
-	<anchor x="335" y="767" name="topright"/>
-	<anchor x="251" y="0" name="bottom"/>
+	<advance width="432"/>
 	<outline>
 		<contour>
 			<point x="268" y="659" type="line"/>
@@ -33,6 +28,11 @@
 			<point x="414" y="379" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="251" y="0"/>
+	<anchor name="center" x="217" y="250"/>
+	<anchor name="ogonek" x="390" y="13"/>
+	<anchor name="top" x="183" y="652"/>
+	<anchor name="topright" x="335" y="767"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

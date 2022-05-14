@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-	<advance width="391"/>
 	<unicode hex="0028"/>
+	<advance width="391"/>
 	<outline>
 		<contour>
 			<point x="301" y="736" type="line"/>

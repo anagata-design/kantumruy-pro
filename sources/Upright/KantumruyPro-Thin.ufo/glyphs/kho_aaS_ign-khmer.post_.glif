@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kho_aaSign-khmer.post_" format="2">
 	<advance width="552"/>
-	<anchor x="32" y="592" name="top"/>
-	<anchor x="156" y="593" name="topright"/>
-	<anchor x="124" y="-258" name="bottomright"/>
-	<anchor x="-82" y="-258" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="416" y="472" type="curve" smooth="yes"/>
@@ -22,6 +18,10 @@
 		</contour>
 		<component base="kho-khmer.post"/>
 	</outline>
+	<anchor name="bottom" x="-82" y="-258"/>
+	<anchor name="bottomright" x="124" y="-258"/>
+	<anchor name="top" x="32" y="592"/>
+	<anchor name="topright" x="156" y="593"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

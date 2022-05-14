@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="2">
-	<advance width="0"/>
 	<unicode hex="0307"/>
-	<anchor x="1" y="698" name="top"/>
-	<anchor x="0" y="500" name="_top"/>
 	<outline>
 		<contour>
 			<point x="0" y="722" type="curve" smooth="yes"/>
@@ -20,6 +17,8 @@
 			<point x="61" y="722"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="0" y="500"/>
+	<anchor name="top" x="1" y="698"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.originalWidth</key>

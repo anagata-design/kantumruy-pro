@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba_aaSign-khmer" format="2">
 	<advance width="969"/>
-	<anchor x="324" y="606" name="top"/>
-	<anchor x="571" y="606" name="topright"/>
-	<anchor x="569" y="0" name="bottomright"/>
-	<anchor x="324" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="723" y="414" type="curve" smooth="yes"/>
@@ -61,6 +57,10 @@
 			<point x="400" y="400" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="324" y="0"/>
+	<anchor name="bottomright" x="569" y="0"/>
+	<anchor name="top" x="324" y="606"/>
+	<anchor name="topright" x="571" y="606"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

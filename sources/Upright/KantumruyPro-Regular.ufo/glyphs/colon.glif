@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-	<advance width="283"/>
 	<unicode hex="003A"/>
-	<anchor x="92" y="449" name="_center"/>
+	<advance width="283"/>
 	<outline>
 		<contour>
 			<point x="152" y="390" type="curve" smooth="yes"/>
@@ -33,6 +32,7 @@
 			<point x="116" y="-9"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="92" y="449"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

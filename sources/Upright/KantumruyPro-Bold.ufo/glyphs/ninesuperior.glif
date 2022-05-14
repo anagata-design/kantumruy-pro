@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ninesuperior" format="2">
-	<advance width="404"/>
 	<unicode hex="2079"/>
-	<anchor x="191" y="531" name="_indexring"/>
+	<advance width="404"/>
 	<outline>
 		<contour>
 			<point x="195" y="735" type="curve" smooth="yes"/>
@@ -47,6 +46,7 @@
 			<point x="161" y="650"/>
 		</contour>
 	</outline>
+	<anchor name="_indexring" x="191" y="531"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
@@ -55,7 +55,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -75,7 +75,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

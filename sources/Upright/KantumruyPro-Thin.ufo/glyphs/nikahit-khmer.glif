@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nikahit-khmer" format="2">
-	<advance width="0"/>
 	<unicode hex="17C6"/>
-	<anchor x="-281" y="592" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-281" y="686" type="curve" smooth="yes"/>
@@ -33,6 +31,7 @@
 			<point x="-240" y="700"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-281" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sa-khmer.post" format="2">
 	<advance width="322"/>
-	<anchor x="0" y="606" name="top"/>
-	<anchor x="246" y="606" name="topright"/>
-	<anchor x="236" y="-258" name="bottomright"/>
-	<anchor x="0" y="-258" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="0" y="-268" type="curve" smooth="yes"/>
@@ -49,4 +45,8 @@
 			<point x="20" y="197" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="0" y="-258"/>
+	<anchor name="bottomright" x="236" y="-258"/>
+	<anchor name="top" x="0" y="606"/>
+	<anchor name="topright" x="246" y="606"/>
 </glyph>

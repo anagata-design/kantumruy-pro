@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-	<advance width="661"/>
 	<unicode hex="00C0"/>
-	<anchor x="405" y="539" name="top_ring"/>
-	<anchor x="599" y="0" name="ogonek"/>
-	<anchor x="482" y="876" name="top"/>
-	<anchor x="292" y="0" name="bottom"/>
+	<advance width="661"/>
 	<outline>
 		<component base="A"/>
 		<component base="gravecomb.case" xOffset="338"/>
 	</outline>
+	<anchor name="bottom" x="292" y="0"/>
+	<anchor name="ogonek" x="599" y="0"/>
+	<anchor name="top" x="482" y="876"/>
+	<anchor name="top_ring" x="405" y="539"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

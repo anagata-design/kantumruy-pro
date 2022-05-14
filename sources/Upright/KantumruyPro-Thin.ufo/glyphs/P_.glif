@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-	<advance width="533"/>
 	<unicode hex="0050"/>
-	<anchor x="115" y="0" name="ogonek"/>
-	<anchor x="107" y="0" name="bottom"/>
-	<anchor x="263" y="660" name="top"/>
+	<advance width="533"/>
 	<outline>
 		<contour>
 			<point x="290" y="660" type="curve" smooth="yes"/>
@@ -31,6 +28,9 @@
 			<point x="411" y="305"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="107" y="0"/>
+	<anchor name="ogonek" x="115" y="0"/>
+	<anchor name="top" x="263" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

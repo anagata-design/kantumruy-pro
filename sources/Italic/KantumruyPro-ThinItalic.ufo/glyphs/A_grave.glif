@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-	<advance width="547"/>
 	<unicode hex="00C0"/>
-	<anchor x="348" y="571" name="top_ring"/>
-	<anchor x="477" y="0" name="ogonek"/>
-	<anchor x="405" y="832" name="top"/>
-	<anchor x="236" y="0" name="bottom"/>
+	<advance width="547"/>
 	<outline>
 		<component base="A"/>
 		<component base="gravecomb.case" xOffset="271"/>
 	</outline>
+	<anchor name="bottom" x="236" y="0"/>
+	<anchor name="ogonek" x="477" y="0"/>
+	<anchor name="top" x="405" y="832"/>
+	<anchor name="top_ring" x="348" y="571"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

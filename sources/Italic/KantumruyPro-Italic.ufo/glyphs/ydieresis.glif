@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="2">
-	<advance width="488"/>
 	<unicode hex="00FF"/>
-	<anchor x="36" y="-210" name="ogonek"/>
-	<anchor x="335" y="654" name="top"/>
-	<anchor x="285" y="454" name="top_hook"/>
-	<anchor x="332" y="-9" name="bottom"/>
+	<advance width="488"/>
 	<outline>
 		<component base="y"/>
 		<component base="dieresiscomb" xOffset="236" yOffset="-11"/>
 	</outline>
+	<anchor name="bottom" x="332" y="-9"/>
+	<anchor name="ogonek" x="36" y="-210"/>
+	<anchor name="top" x="335" y="654"/>
+	<anchor name="top_hook" x="285" y="454"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

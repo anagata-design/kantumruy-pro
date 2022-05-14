@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.case" format="2">
-	<advance width="0"/>
-	<anchor x="396" y="824" name="top"/>
-	<anchor x="368" y="660" name="_top"/>
 	<outline>
 		<contour>
 			<point x="371" y="715" type="line"/>
@@ -27,6 +24,8 @@
 			<point x="367" y="727" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="368" y="660"/>
+	<anchor name="top" x="396" y="824"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.originalWidth</key>

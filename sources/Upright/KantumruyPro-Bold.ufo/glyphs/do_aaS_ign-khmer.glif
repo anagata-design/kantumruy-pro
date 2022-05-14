@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="do_aaSign-khmer" format="2">
 	<advance width="928"/>
-	<anchor x="302" y="606" name="top"/>
-	<anchor x="536" y="606" name="topright"/>
-	<anchor x="536" y="0" name="bottomright"/>
-	<anchor x="299" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="682" y="439" type="curve" smooth="yes"/>
@@ -24,6 +20,10 @@
 		</contour>
 		<component base="do-khmer"/>
 	</outline>
+	<anchor name="bottom" x="299" y="0"/>
+	<anchor name="bottomright" x="536" y="0"/>
+	<anchor name="top" x="302" y="606"/>
+	<anchor name="topright" x="536" y="606"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

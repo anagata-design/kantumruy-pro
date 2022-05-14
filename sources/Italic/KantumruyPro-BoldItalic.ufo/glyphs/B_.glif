@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B" format="2">
-	<advance width="675"/>
 	<unicode hex="0042"/>
-	<anchor x="327" y="0" name="ogonek"/>
-	<anchor x="256" y="0" name="bottom"/>
-	<anchor x="409" y="660" name="top"/>
+	<advance width="675"/>
 	<outline>
 		<contour>
 			<point x="14" y="0" type="line"/>
@@ -47,6 +44,9 @@
 			<point x="388" y="389" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="256" y="0"/>
+	<anchor name="ogonek" x="327" y="0"/>
+	<anchor name="top" x="409" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
@@ -55,7 +55,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -70,7 +70,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -85,7 +85,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -100,7 +100,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

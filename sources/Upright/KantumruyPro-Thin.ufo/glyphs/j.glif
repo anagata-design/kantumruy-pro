@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-	<advance width="186"/>
 	<unicode hex="006A"/>
-	<anchor x="93" y="632" name="top"/>
+	<advance width="186"/>
 	<outline>
 		<component base="jdotless"/>
 		<component base="tittle"/>
 	</outline>
+	<anchor name="top" x="93" y="632"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

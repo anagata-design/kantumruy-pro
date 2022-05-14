@@ -493,11 +493,15 @@ lookup km_ro_pre2 {
 feature blws {
 script khmr;
 
+#**********#
+
 lookup km_triisap_abvv {
   lookupflag UseMarkFilteringSet @abvv_triisap_filter;
   sub @kmTriisapBases triisap-khmer' @kmVowelsAbove by uMark-khmer;
   lookupflag 0;
 } km_triisap_abvv;
+
+#**********#
 
 lookup km_muusikatoan_abvv {
   lookupflag UseMarkFilteringSet @abvv_muusik_filter;
@@ -512,16 +516,22 @@ lookup km_cs_to_umark {
   lookupflag 0;
 } km_cs_to_umark;
 
-lookup km_below2_marks {
+#**********#
+
+  lookup km_below2_marks {
   lookupflag UseMarkFilteringSet @below2_filter;
   sub [la-khmer nyo-khmer @kmCoengsPost @kmCoengsBelow] @kmVowelsBelow' by @kmVowelsBelow2;
   lookupflag 0;
 } km_below2_marks;
 
+#**********#
+
 lookup km_coneg_below2 {
   sub sa-khmer.post mo-khmer.below' by mo-khmer.below2;
   sub la-khmer ha-khmer.below' by ha-khmer.below2;
 } km_coneg_below2;
+
+#**********#
 
 lookup km_ro_coeng_narrow {
   lookupflag UseMarkFilteringSet @coengs_below_ro;
@@ -529,10 +539,14 @@ lookup km_ro_coeng_narrow {
   lookupflag 0;
 } km_ro_coeng_narrow;
 
+#**********#
+
 lookup km_coeng_nno_narrow {
   sub [@kmHalfCol @kmOneCol] nno-khmer.below' by nno-khmer.below.narrow1;
   sub [@kmTwoCols] nno-khmer.below' by nno-khmer.below.narrow2;
 } km_coeng_nno_narrow;
+
+#**********#
 
 lookup km_ro_below_vowels {
   lookupflag UseMarkFilteringSet @blwv_uu_ua;
@@ -662,11 +676,15 @@ lookup km_nyo_less {
   sub nyo-khmer.less nyo-khmer.below' by nyo-khmer.full.below;
 } km_nyo_less;
 
-lookup km_coeng_nyo_narrow {
+#**********#
+
+  lookup km_coeng_nyo_narrow {
   lookupflag UseMarkFilteringSet @coeng_nyo_narrow_filter;
   sub nyo-khmer.less nyo-khmer.full.below' @kmVowelsBelow2 by nyo-khmer.full.below.narrow;
   lookupflag 0;
 } km_coeng_nyo_narrow;
+
+#**********#
 
 lookupflag IgnoreMarks; 
 
@@ -679,6 +697,8 @@ lookup base_old_aa_au_to_nospace {
 } base_old_aa_au_to_nospace;
 
 lookupflag 0;
+
+#**********#
 
 lookupflag UseMarkFilteringSet @marks_after_liga;
 

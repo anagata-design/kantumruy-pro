@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="2">
-	<advance width="318"/>
 	<unicode hex="00CD"/>
-	<anchor x="245" y="0" name="ogonek"/>
-	<anchor x="159" y="0" name="bottom"/>
-	<anchor x="163" y="876" name="top"/>
+	<advance width="318"/>
 	<outline>
 		<component base="I"/>
 		<component base="acutecomb.case" xOffset="163"/>
 	</outline>
+	<anchor name="bottom" x="159" y="0"/>
+	<anchor name="ogonek" x="245" y="0"/>
+	<anchor name="top" x="163" y="876"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
-	<advance width="450"/>
 	<unicode hex="0022"/>
+	<advance width="450"/>
 	<outline>
 		<component base="quotesingle" xOffset="199"/>
 		<component base="quotesingle"/>
@@ -32,9 +32,9 @@
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
 			<string>quotesingle</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==quotesingle</string>
+			<string>=quotesingle</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==quotesingle</string>
+			<string>=quotesingle</string>
 			<key>public.markColor</key>
 			<string>0.5,0.09,0.79,1</string>
 		</dict>

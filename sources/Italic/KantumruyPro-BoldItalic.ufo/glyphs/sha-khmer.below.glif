@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sha-khmer.below" format="2">
-	<advance width="0"/>
-	<anchor x="-386" y="0" name="_bottom"/>
-	<anchor x="-446" y="-258" name="bottom"/>
-	<anchor x="-227" y="-258" name="bottomright"/>
 	<outline>
 		<contour>
 			<point x="-673" y="-258" type="line"/>
@@ -35,6 +31,9 @@
 			<point x="-393" y="-167" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="-386" y="0"/>
+	<anchor name="bottom" x="-446" y="-258"/>
+	<anchor name="bottomright" x="-227" y="-258"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

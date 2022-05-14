@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<advance width="182"/>
 	<unicode hex="0021"/>
-	<anchor x="17" y="15" name="_center"/>
+	<advance width="182"/>
 	<outline>
 		<contour>
 			<point x="65" y="170" type="line"/>
@@ -27,6 +26,7 @@
 			<point x="25" y="-5"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="17" y="15"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

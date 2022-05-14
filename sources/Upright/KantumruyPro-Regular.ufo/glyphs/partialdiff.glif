@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="partialdiff" format="2">
-	<advance width="576"/>
 	<unicode hex="2202"/>
+	<advance width="576"/>
 	<outline>
 		<contour>
 			<point x="266" y="-10" type="curve" smooth="yes"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceleft" format="2">
-	<advance width="420"/>
 	<unicode hex="007B"/>
+	<advance width="420"/>
 	<outline>
 		<contour>
 			<point x="393" y="-191" type="curve"/>
@@ -43,7 +43,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -63,7 +63,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -83,7 +83,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -103,7 +103,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

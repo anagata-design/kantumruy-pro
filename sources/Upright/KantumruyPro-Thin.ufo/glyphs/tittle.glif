@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tittle" format="2">
 	<advance width="186"/>
-	<anchor x="93" y="632" name="top"/>
-	<anchor x="93" y="500" name="_top"/>
 	<outline>
 		<contour>
 			<point x="93" y="598" type="curve" smooth="yes"/>
@@ -19,6 +17,8 @@
 			<point x="80" y="598"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="93" y="500"/>
+	<anchor name="top" x="93" y="632"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.Export</key>

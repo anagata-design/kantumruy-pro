@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb" format="2">
-	<advance width="0"/>
 	<unicode hex="0302"/>
-	<anchor x="91" y="682" name="top"/>
-	<anchor x="50" y="500" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-81" y="577" type="line"/>
@@ -15,6 +12,8 @@
 			<point x="62" y="741" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="50" y="500"/>
+	<anchor name="top" x="91" y="682"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.originalWidth</key>

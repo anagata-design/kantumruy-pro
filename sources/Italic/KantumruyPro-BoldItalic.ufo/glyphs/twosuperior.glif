@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="2">
-	<advance width="378"/>
 	<unicode hex="00B2"/>
-	<anchor x="247" y="514" name="_indexring"/>
+	<advance width="378"/>
 	<outline>
 		<contour>
 			<point x="56" y="334" type="line"/>
@@ -34,13 +33,14 @@
 			<point x="75" y="416" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="_indexring" x="247" y="514"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -55,7 +55,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

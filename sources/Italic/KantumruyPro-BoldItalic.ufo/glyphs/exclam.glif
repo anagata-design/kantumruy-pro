@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<advance width="300"/>
 	<unicode hex="0021"/>
-	<anchor x="15.838" y="63.148" name="_center"/>
+	<advance width="300"/>
 	<outline>
 		<contour>
 			<point x="71" y="215" type="line"/>
@@ -27,13 +26,14 @@
 			<point x="51.842" y="-8.547"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="15.838" y="63.148"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -48,7 +48,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

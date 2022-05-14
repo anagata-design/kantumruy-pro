@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qa-khmer.below" format="2">
-	<advance width="0"/>
-	<anchor x="-351" y="0" name="_bottom"/>
-	<anchor x="-411" y="-258" name="bottom"/>
-	<anchor x="-258" y="-258" name="bottomright"/>
 	<outline>
 		<contour>
 			<point x="-559" y="-262" type="curve" smooth="yes"/>
@@ -62,6 +58,9 @@
 			<point x="-518" y="-122" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="-351" y="0"/>
+	<anchor name="bottom" x="-411" y="-258"/>
+	<anchor name="bottomright" x="-258" y="-258"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

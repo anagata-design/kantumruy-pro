@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="2">
-	<advance width="665"/>
 	<unicode hex="00C1"/>
-	<anchor x="333" y="540" name="top_ring"/>
-	<anchor x="661" y="0" name="ogonek"/>
-	<anchor x="332" y="876" name="top"/>
-	<anchor x="332" y="0" name="bottom"/>
+	<advance width="665"/>
 	<outline>
 		<component base="A"/>
 		<component base="acutecomb.case" xOffset="332"/>
 	</outline>
+	<anchor name="bottom" x="332" y="0"/>
+	<anchor name="ogonek" x="661" y="0"/>
+	<anchor name="top" x="332" y="876"/>
+	<anchor name="top_ring" x="333" y="540"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

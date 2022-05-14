@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-	<advance width="661"/>
 	<unicode hex="00C3"/>
-	<anchor x="405" y="539" name="top_ring"/>
-	<anchor x="599" y="0" name="ogonek"/>
-	<anchor x="465" y="866" name="top"/>
-	<anchor x="292" y="0" name="bottom"/>
+	<advance width="661"/>
 	<outline>
 		<component base="A"/>
 		<component base="tildecomb" xOffset="369" yOffset="160"/>
 	</outline>
+	<anchor name="bottom" x="292" y="0"/>
+	<anchor name="ogonek" x="599" y="0"/>
+	<anchor name="top" x="465" y="866"/>
+	<anchor name="top_ring" x="405" y="539"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

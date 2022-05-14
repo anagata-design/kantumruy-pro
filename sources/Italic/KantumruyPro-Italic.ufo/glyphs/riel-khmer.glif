@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="riel-khmer" format="2">
-	<advance width="332"/>
 	<unicode hex="17DB"/>
+	<advance width="332"/>
 	<outline>
 		<contour>
 			<point x="101" y="-6" type="curve" smooth="yes"/>

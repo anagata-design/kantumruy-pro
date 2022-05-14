@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="avakrahasanya-khmer" format="2">
-	<advance width="570"/>
 	<unicode hex="17DC"/>
+	<advance width="570"/>
 	<outline>
 		<contour>
 			<point x="219" y="-10" type="curve" smooth="yes"/>
@@ -40,4 +40,14 @@
 			<point x="91" y="-10"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
 </glyph>

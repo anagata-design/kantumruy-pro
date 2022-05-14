@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yMark-khmer.small" format="2">
-	<advance width="0"/>
-	<anchor x="-100" y="746" name="_topright"/>
 	<outline>
 		<contour>
 			<point x="-338" y="794" type="curve" smooth="yes"/>
 			<point x="-100" y="794" type="line"/>
 			<point x="-100" y="809" type="line"/>
 			<point x="-113" y="824"/>
-			<point x="-133" y="843"/>
-			<point x="-151" y="860" type="curve"/>
-			<point x="-158" y="854" type="line"/>
-			<point x="-150" y="851"/>
+			<point x="-133" y="842"/>
+			<point x="-151" y="859" type="curve"/>
+			<point x="-158" y="853" type="line"/>
+			<point x="-150" y="850"/>
 			<point x="-143" y="850"/>
 			<point x="-139" y="850" type="curve" smooth="yes"/>
 			<point x="-108" y="850"/>
@@ -26,8 +24,8 @@
 			<point x="-194" y="895"/>
 			<point x="-192" y="888"/>
 			<point x="-186" y="881" type="curve"/>
-			<point x="-185" y="890" type="line"/>
-			<point x="-221" y="921"/>
+			<point x="-185" y="889" type="line"/>
+			<point x="-221" y="920"/>
 			<point x="-265" y="942"/>
 			<point x="-319" y="942" type="curve" smooth="yes"/>
 			<point x="-380" y="942"/>
@@ -45,9 +43,9 @@
 			<point x="-371" y="927"/>
 			<point x="-319" y="927" type="curve" smooth="yes"/>
 			<point x="-264" y="927"/>
-			<point x="-218" y="901"/>
-			<point x="-184" y="872" type="curve" smooth="yes"/>
-			<point x="-149" y="843"/>
+			<point x="-218" y="900"/>
+			<point x="-184" y="871" type="curve" smooth="yes"/>
+			<point x="-149" y="842"/>
 			<point x="-124" y="817"/>
 			<point x="-118" y="809" type="curve"/>
 		</contour>
@@ -66,12 +64,11 @@
 			<point x="-117" y="864"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="-100" y="746"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>
 			<string>Mark</string>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2022-05-06 07:16:30 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.script</key>
 			<string>khmer</string>
 			<key>com.schriftgestaltung.Glyphs.subCategory</key>

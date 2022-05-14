@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ttha-khmer.below" format="2">
-	<advance width="0"/>
-	<anchor x="-287" y="0" name="_bottom"/>
-	<anchor x="-287" y="-258" name="bottom"/>
-	<anchor x="-128" y="-258" name="bottomright"/>
 	<outline>
 		<contour>
 			<point x="-352" y="-258" type="curve" smooth="yes"/>
@@ -33,6 +29,9 @@
 			<point x="-422" y="-258"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="-287" y="0"/>
+	<anchor name="bottom" x="-287" y="-258"/>
+	<anchor name="bottomright" x="-128" y="-258"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyo-khmer.less" format="2">
 	<advance width="954"/>
-	<anchor x="636" y="606" name="top"/>
-	<anchor x="868" y="606" name="topright"/>
-	<anchor x="878" y="0" name="bottomright"/>
-	<anchor x="636" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="392" y="0" type="line"/>
@@ -61,4 +57,8 @@
 			<point x="708" y="464"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="636" y="0"/>
+	<anchor name="bottomright" x="878" y="0"/>
+	<anchor name="top" x="636" y="606"/>
+	<anchor name="topright" x="868" y="606"/>
 </glyph>

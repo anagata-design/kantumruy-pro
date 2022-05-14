@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-	<advance width="950"/>
 	<unicode hex="0153"/>
-	<anchor x="488" y="500" name="top"/>
-	<anchor x="488" y="0" name="bottom"/>
+	<advance width="950"/>
 	<outline>
 		<contour>
 			<point x="289" y="-10" type="curve" smooth="yes"/>
@@ -67,6 +65,8 @@
 			<point x="389" y="52"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="488" y="0"/>
+	<anchor name="top" x="488" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

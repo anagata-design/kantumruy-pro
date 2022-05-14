@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="2">
-	<advance width="754"/>
 	<unicode hex="2122"/>
+	<advance width="754"/>
 	<outline>
 		<contour>
 			<point x="237" y="660" type="line"/>

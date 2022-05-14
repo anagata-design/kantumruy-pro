@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oeSign-khmer" format="2">
-	<advance width="0"/>
 	<unicode hex="17BE"/>
-	<anchor x="-27" y="592" name="_topright"/>
 	<outline>
 		<contour>
 			<point x="-258" y="690" type="curve" smooth="yes"/>
@@ -33,6 +31,7 @@
 			<point x="-20" y="705" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="-27" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

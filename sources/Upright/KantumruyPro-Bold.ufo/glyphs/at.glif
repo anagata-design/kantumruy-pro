@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at" format="2">
-	<advance width="919"/>
 	<unicode hex="0040"/>
+	<advance width="919"/>
 	<outline>
 		<contour>
 			<point x="460" y="-185" type="curve" smooth="yes"/>
@@ -81,7 +81,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

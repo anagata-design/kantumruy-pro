@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kakabat-khmer.small" format="2">
-	<advance width="0"/>
-	<anchor x="-39" y="752" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-60" y="780" type="line"/>
@@ -18,6 +16,7 @@
 			<point x="-46" y="839" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-39" y="752"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

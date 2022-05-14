@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="samyoksannya-khmer.ro" format="2">
-	<advance width="0"/>
-	<anchor x="-106" y="592" name="_topright"/>
 	<outline>
 		<contour>
 			<point x="-265" y="684" type="curve" smooth="yes"/>
@@ -32,6 +30,7 @@
 			<point x="-326" y="684"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="-106" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

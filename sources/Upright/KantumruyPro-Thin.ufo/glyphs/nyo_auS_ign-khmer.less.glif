@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyo_auSign-khmer.less" format="2">
 	<advance width="1196"/>
-	<anchor x="619" y="592" name="top"/>
-	<anchor x="778" y="592" name="topright"/>
-	<anchor x="788" y="0" name="bottomright"/>
-	<anchor x="619" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="1060" y="514" type="line"/>
@@ -25,6 +21,10 @@
 		</contour>
 		<component base="nyo_aaSign-khmer.less"/>
 	</outline>
+	<anchor name="bottom" x="619" y="0"/>
+	<anchor name="bottomright" x="788" y="0"/>
+	<anchor name="top" x="619" y="592"/>
+	<anchor name="topright" x="778" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

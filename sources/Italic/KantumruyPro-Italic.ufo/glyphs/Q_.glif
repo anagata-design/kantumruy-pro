@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-	<advance width="723"/>
 	<unicode hex="0051"/>
-	<anchor x="247" y="-210" name="bottom"/>
-	<anchor x="440" y="-190" name="ogonek"/>
-	<anchor x="428" y="660" name="top"/>
-	<anchor x="622" y="660" name="topright"/>
-	<anchor x="115" y="660" name="topleft"/>
-	<anchor x="379" y="330" name="center"/>
+	<advance width="723"/>
 	<outline>
 		<contour>
 			<point x="441" y="-194" type="curve" smooth="yes"/>
@@ -33,6 +27,12 @@
 		</contour>
 		<component base="O"/>
 	</outline>
+	<anchor name="bottom" x="247" y="-210"/>
+	<anchor name="ogonek" x="440" y="-190"/>
+	<anchor name="center" x="379" y="330"/>
+	<anchor name="top" x="428" y="660"/>
+	<anchor name="topleft" x="115" y="660"/>
+	<anchor name="topright" x="622" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

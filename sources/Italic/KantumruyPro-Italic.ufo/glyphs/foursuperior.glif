@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="2">
-	<advance width="324"/>
 	<unicode hex="2074"/>
-	<anchor x="218" y="527" name="_indexring"/>
+	<advance width="324"/>
 	<outline>
 		<contour>
 			<point x="203" y="333" type="line"/>
@@ -29,6 +28,7 @@
 			<point x="236" y="480" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_indexring" x="218" y="527"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

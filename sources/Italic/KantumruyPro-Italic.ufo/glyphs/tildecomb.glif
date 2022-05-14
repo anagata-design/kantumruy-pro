@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
-	<advance width="0"/>
 	<unicode hex="0303"/>
-	<anchor x="90" y="693" name="top"/>
-	<anchor x="51" y="500" name="_top"/>
 	<outline>
 		<contour>
 			<point x="256" y="713" type="curve"/>
@@ -28,6 +25,8 @@
 			<point x="240" y="629"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="51" y="500"/>
+	<anchor name="top" x="90" y="693"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.originalWidth</key>

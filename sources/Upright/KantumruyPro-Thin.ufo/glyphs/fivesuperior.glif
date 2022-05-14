@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fivesuperior" format="2">
-	<advance width="349"/>
 	<unicode hex="2075"/>
-	<anchor x="178" y="533" name="_indexring"/>
+	<advance width="349"/>
 	<outline>
 		<contour>
 			<point x="182" y="578" type="curve" smooth="yes"/>
@@ -42,6 +41,7 @@
 			<point x="255" y="578"/>
 		</contour>
 	</outline>
+	<anchor name="_indexring" x="178" y="533"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

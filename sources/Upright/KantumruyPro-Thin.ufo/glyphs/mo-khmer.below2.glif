@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mo-khmer.below2" format="2">
-	<advance width="0"/>
-	<anchor x="-287" y="-258" name="_bottom"/>
-	<anchor x="-287" y="-458" name="bottom"/>
-	<anchor x="-128" y="-458" name="bottomright"/>
 	<outline>
 		<contour>
 			<point x="-175" y="-462" type="curve" smooth="yes"/>
@@ -47,6 +43,9 @@
 			<point x="-362" y="-416"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="-287" y="-258"/>
+	<anchor name="bottom" x="-287" y="-458"/>
+	<anchor name="bottomright" x="-168" y="-458"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

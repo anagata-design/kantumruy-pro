@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sixsuperior" format="2">
-	<advance width="362"/>
 	<unicode hex="2076"/>
-	<anchor x="252" y="530" name="_indexring"/>
+	<advance width="362"/>
 	<outline>
 		<contour>
 			<point x="240" y="327" type="curve" smooth="yes"/>
@@ -46,6 +45,7 @@
 			<point x="286" y="378"/>
 		</contour>
 	</outline>
+	<anchor name="_indexring" x="252" y="530"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

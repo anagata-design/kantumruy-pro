@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="infinity" format="2">
-	<advance width="942"/>
 	<unicode hex="221E"/>
+	<advance width="942"/>
 	<outline>
 		<contour>
 			<point x="712" y="525" type="curve" smooth="yes"/>
@@ -62,7 +62,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -82,7 +82,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

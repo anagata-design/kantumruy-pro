@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="southEastArrow" format="2">
-	<advance width="787"/>
 	<unicode hex="2198"/>
+	<advance width="787"/>
 	<outline>
 		<component base="southWestArrow" xScale="-1" xOffset="816"/>
 	</outline>

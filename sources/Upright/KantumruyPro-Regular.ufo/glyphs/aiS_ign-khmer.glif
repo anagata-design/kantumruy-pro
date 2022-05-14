@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiSign-khmer" format="2">
-	<advance width="308"/>
 	<unicode hex="17C3"/>
+	<advance width="308"/>
 	<outline>
 		<contour>
 			<point x="154" y="660" type="curve" smooth="yes"/>

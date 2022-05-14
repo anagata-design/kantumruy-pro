@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qii-khmer" format="2">
-	<advance width="948"/>
 	<unicode hex="17A6"/>
+	<advance width="948"/>
 	<outline>
 		<contour>
 			<point x="436" y="426" type="curve" smooth="yes"/>

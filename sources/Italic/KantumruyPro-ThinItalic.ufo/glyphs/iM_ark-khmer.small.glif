@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iMark-khmer.small" format="2">
-	<advance width="0"/>
-	<anchor x="9" y="746" name="_topright"/>
 	<outline>
 		<contour>
 			<point x="-218" y="794" type="curve" smooth="yes"/>
@@ -29,6 +27,7 @@
 			<point x="7" y="809" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="9" y="746"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

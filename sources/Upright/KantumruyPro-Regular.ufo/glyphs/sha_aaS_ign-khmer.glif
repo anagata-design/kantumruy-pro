@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sha_aaSign-khmer" format="2">
 	<advance width="950"/>
-	<anchor x="312" y="594" name="top"/>
-	<anchor x="518" y="594" name="topright"/>
-	<anchor x="518" y="0" name="bottomright"/>
-	<anchor x="312" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="768" y="444" type="curve" smooth="yes"/>
@@ -22,6 +18,10 @@
 		</contour>
 		<component base="sha-khmer"/>
 	</outline>
+	<anchor name="bottom" x="312" y="0"/>
+	<anchor name="bottomright" x="518" y="0"/>
+	<anchor name="top" x="312" y="594"/>
+	<anchor name="topright" x="518" y="594"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lo-khmer" format="2">
-	<advance width="896"/>
 	<unicode hex="179B"/>
-	<anchor x="689" y="592" name="top"/>
-	<anchor x="860" y="592" name="topright"/>
-	<anchor x="713" y="0" name="bottomright"/>
-	<anchor x="552" y="0" name="bottom"/>
+	<advance width="896"/>
 	<outline>
 		<contour>
 			<point x="555" y="-6" type="curve" smooth="yes"/>
@@ -77,4 +73,8 @@
 			<point x="88" y="8"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="552" y="0"/>
+	<anchor name="bottomright" x="713" y="0"/>
+	<anchor name="top" x="689" y="592"/>
+	<anchor name="topright" x="860" y="592"/>
 </glyph>

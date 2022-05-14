@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-	<advance width="513"/>
 	<unicode hex="2020"/>
+	<advance width="513"/>
 	<outline>
 		<contour>
 			<point x="387" y="660" type="line"/>

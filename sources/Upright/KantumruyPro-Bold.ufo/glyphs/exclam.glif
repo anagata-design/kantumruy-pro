@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<advance width="301"/>
 	<unicode hex="0021"/>
+	<advance width="301"/>
 	<outline>
 		<contour>
 			<point x="239" y="660" type="line"/>
@@ -32,7 +32,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>0</integer>
+					<false/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

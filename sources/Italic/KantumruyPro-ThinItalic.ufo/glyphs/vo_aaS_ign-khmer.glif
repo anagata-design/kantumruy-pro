@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vo_aaSign-khmer" format="2">
 	<advance width="570"/>
-	<anchor x="211" y="592" name="top"/>
-	<anchor x="361" y="592" name="topright"/>
-	<anchor x="89" y="0" name="bottomright"/>
-	<anchor x="54" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="485" y="498" type="curve" smooth="yes"/>
@@ -29,6 +25,10 @@
 		</contour>
 		<component base="vo-khmer"/>
 	</outline>
+	<anchor name="bottom" x="54" y="0"/>
+	<anchor name="bottomright" x="89" y="0"/>
+	<anchor name="top" x="211" y="592"/>
+	<anchor name="topright" x="361" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

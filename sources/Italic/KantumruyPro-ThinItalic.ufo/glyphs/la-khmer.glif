@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="la-khmer" format="2">
-	<advance width="763"/>
 	<unicode hex="17A1"/>
-	<anchor x="586" y="592" name="top"/>
-	<anchor x="728" y="592" name="topright"/>
-	<anchor x="531" y="-258" name="bottomright"/>
-	<anchor x="389" y="-258" name="bottom"/>
+	<advance width="763"/>
 	<outline>
 		<contour>
 			<point x="247" y="-258" type="line"/>
@@ -105,6 +101,10 @@
 			<point x="407" y="241"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="389" y="-258"/>
+	<anchor name="bottomright" x="531" y="-258"/>
+	<anchor name="top" x="586" y="592"/>
+	<anchor name="topright" x="728" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

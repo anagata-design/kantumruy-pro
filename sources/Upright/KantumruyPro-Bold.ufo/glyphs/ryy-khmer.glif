@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ryy-khmer" format="2">
-	<advance width="642"/>
 	<unicode hex="17AC"/>
-	<anchor x="321" y="606" name="top"/>
-	<anchor x="554" y="606" name="topright"/>
-	<anchor x="556" y="0" name="bottomright"/>
-	<anchor x="321" y="0" name="bottom"/>
+	<advance width="642"/>
 	<outline>
 		<contour>
 			<point x="317" y="-268" type="curve" smooth="yes"/>
@@ -34,6 +30,10 @@
 		</contour>
 		<component base="ba-khmer"/>
 	</outline>
+	<anchor name="bottom" x="321" y="0"/>
+	<anchor name="bottomright" x="556" y="0"/>
+	<anchor name="top" x="321" y="606"/>
+	<anchor name="topright" x="554" y="606"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

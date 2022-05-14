@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-	<advance width="524"/>
 	<unicode hex="005A"/>
-	<anchor x="500" y="0" name="ogonek"/>
-	<anchor x="263" y="0" name="bottom"/>
-	<anchor x="263" y="660" name="top"/>
+	<advance width="524"/>
 	<outline>
 		<contour>
 			<point x="43" y="8" type="line"/>
@@ -21,6 +18,9 @@
 			<point x="40" y="14" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="263" y="0"/>
+	<anchor name="ogonek" x="500" y="0"/>
+	<anchor name="top" x="263" y="660"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

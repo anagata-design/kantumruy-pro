@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute" format="2">
-	<advance width="551"/>
 	<unicode hex="00E9"/>
-	<anchor x="349" y="4" name="ogonek"/>
-	<anchor x="255" y="0" name="bottom"/>
-	<anchor x="343" y="702" name="top"/>
+	<advance width="551"/>
 	<outline>
 		<component base="e"/>
 		<component base="acutecomb" xOffset="252"/>
 	</outline>
+	<anchor name="bottom" x="255" y="0"/>
+	<anchor name="ogonek" x="349" y="4"/>
+	<anchor name="top" x="343" y="702"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

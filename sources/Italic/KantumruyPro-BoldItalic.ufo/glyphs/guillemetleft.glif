@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemetleft" format="2">
-	<advance width="578"/>
 	<unicode hex="00AB"/>
+	<advance width="578"/>
 	<outline>
 		<component base="guilsinglleft"/>
 		<component base="guilsinglleft" xOffset="236"/>
@@ -32,9 +32,9 @@
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
 			<string>guilsinglleft</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==guilsinglleft</string>
+			<string>=guilsinglleft</string>
 			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==guilsinglleft</string>
+			<string>=guilsinglleft</string>
 			<key>public.markColor</key>
 			<string>0.5,0.09,0.79,1</string>
 		</dict>

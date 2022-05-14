@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-	<advance width="572"/>
 	<unicode hex="0065"/>
-	<anchor x="385" y="8" name="ogonek"/>
-	<anchor x="263" y="0" name="bottom"/>
-	<anchor x="327" y="500" name="top"/>
+	<advance width="572"/>
 	<outline>
 		<contour>
 			<point x="276" y="-9" type="curve" smooth="yes"/>
@@ -44,17 +41,20 @@
 			<point x="132" y="-9"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="263" y="0"/>
+	<anchor name="ogonek" x="385" y="8"/>
+	<anchor name="top" x="327" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
 			<string>o</string>
 			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-			<string>==o</string>
+			<string>=o</string>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -69,7 +69,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

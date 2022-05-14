@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="2">
-	<advance width="249"/>
 	<unicode hex="00EC"/>
-	<anchor x="102" y="0" name="ogonek"/>
-	<anchor x="66" y="0" name="bottom"/>
-	<anchor x="236" y="733" name="top"/>
+	<advance width="249"/>
 	<outline>
 		<component base="idotless"/>
 		<component base="gravecomb" xOffset="124"/>
 	</outline>
+	<anchor name="bottom" x="66" y="0"/>
+	<anchor name="ogonek" x="102" y="0"/>
+	<anchor name="top" x="236" y="733"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

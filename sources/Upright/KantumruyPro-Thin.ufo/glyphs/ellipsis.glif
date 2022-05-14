@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-	<advance width="528"/>
 	<unicode hex="2026"/>
-	<anchor x="418" y="17" name="_center"/>
+	<advance width="528"/>
 	<outline>
 		<contour>
 			<point x="440" y="-5" type="curve" smooth="yes"/>
@@ -47,6 +46,7 @@
 			<point x="75" y="-5"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="418" y="17"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

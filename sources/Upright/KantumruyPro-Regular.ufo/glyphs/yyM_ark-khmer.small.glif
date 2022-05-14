@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yyMark-khmer.small" format="2">
-	<advance width="0"/>
-	<anchor x="-100" y="752" name="_topright"/>
 	<outline>
 		<contour>
 			<point x="-338" y="780" type="curve" smooth="yes"/>
 			<point x="-100" y="780" type="line"/>
-			<point x="-100" y="950" type="line"/>
-			<point x="-154" y="950" type="line"/>
+			<point x="-100" y="938" type="line"/>
+			<point x="-154" y="938" type="line"/>
 			<point x="-154" y="844" type="line"/>
 			<point x="-156" y="844" type="line"/>
 			<point x="-194" y="894"/>
@@ -33,17 +31,16 @@
 		</contour>
 		<contour>
 			<point x="-200" y="861" type="line"/>
-			<point x="-200" y="960" type="line"/>
-			<point x="-252" y="960" type="line"/>
+			<point x="-200" y="952" type="line"/>
+			<point x="-252" y="952" type="line"/>
 			<point x="-252" y="875" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="-100" y="752"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>
 			<string>Mark</string>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2022-05-06 07:13:13 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.script</key>
 			<string>khmer</string>
 			<key>com.schriftgestaltung.Glyphs.subCategory</key>

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="2">
-	<advance width="557"/>
 	<unicode hex="00FE"/>
-	<anchor x="404" y="21" name="ogonek"/>
-	<anchor x="93" y="-210" name="bottom"/>
-	<anchor x="93" y="730" name="top"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point x="85" y="-210" type="line"/>
@@ -42,6 +39,9 @@
 			<point x="411" y="4"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="93" y="-210"/>
+	<anchor name="ogonek" x="404" y="21"/>
+	<anchor name="top" x="93" y="730"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

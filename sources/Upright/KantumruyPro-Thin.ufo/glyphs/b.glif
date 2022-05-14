@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-	<advance width="557"/>
 	<unicode hex="0062"/>
-	<anchor x="401" y="21" name="ogonek"/>
-	<anchor x="288" y="0" name="bottom"/>
-	<anchor x="93" y="680" name="top"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point x="294" y="-10" type="curve" smooth="yes"/>
@@ -42,6 +39,9 @@
 			<point x="411" y="4"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="288" y="0"/>
+	<anchor name="ogonek" x="401" y="21"/>
+	<anchor name="top" x="93" y="680"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

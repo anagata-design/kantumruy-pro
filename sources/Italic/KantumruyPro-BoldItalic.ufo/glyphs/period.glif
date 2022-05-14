@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-	<advance width="286"/>
 	<unicode hex="002E"/>
-	<anchor x="6" y="68" name="_center"/>
+	<advance width="286"/>
 	<outline>
 		<contour>
 			<point x="99" y="-8" type="curve" smooth="yes"/>
@@ -19,13 +18,14 @@
 			<point x="43" y="-8"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="6" y="68"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

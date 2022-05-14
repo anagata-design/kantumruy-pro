@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="2">
-	<advance width="646"/>
 	<unicode hex="00DF"/>
-	<anchor x="504" y="13" name="ogonek"/>
-	<anchor x="337" y="0" name="bottom"/>
-	<anchor x="337" y="712" name="top"/>
+	<advance width="646"/>
 	<outline>
 		<contour>
 			<point x="437" y="362" type="curve"/>
@@ -53,13 +50,16 @@
 			<point x="549" y="362"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="337" y="0"/>
+	<anchor name="ogonek" x="504" y="13"/>
+	<anchor name="top" x="337" y="712"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -79,7 +79,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>

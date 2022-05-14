@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyo_aaSign-khmer" format="2">
 	<advance width="1199"/>
-	<anchor x="619" y="592" name="top"/>
-	<anchor x="778" y="592" name="topright"/>
-	<anchor x="778" y="-258" name="bottomright"/>
-	<anchor x="619" y="-258" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="1063" y="478" type="curve" smooth="yes"/>
@@ -24,6 +20,10 @@
 		</contour>
 		<component base="nyo-khmer"/>
 	</outline>
+	<anchor name="bottom" x="619" y="-258"/>
+	<anchor name="bottomright" x="778" y="-258"/>
+	<anchor name="top" x="619" y="592"/>
+	<anchor name="topright" x="778" y="592"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

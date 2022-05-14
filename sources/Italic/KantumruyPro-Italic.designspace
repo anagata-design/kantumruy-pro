@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.1">
+<designspace format="5.0">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="400">
       <map input="100" output="16"/>
@@ -45,50 +45,36 @@
       <location>
         <dimension name="Weight" xvalue="16"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro ExtraLight Italic" familyname="Kantumruy Pro" stylename="ExtraLight Italic" filename="instance_ufos/KantumruyPro-ExtraLightItalic.ufo" stylemapfamilyname="Kantumruy Pro ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="36"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro Light Italic" familyname="Kantumruy Pro" stylename="Light Italic" filename="instance_ufos/KantumruyPro-LightItalic.ufo" stylemapfamilyname="Kantumruy Pro Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="56"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro Italic" familyname="Kantumruy Pro" stylename="Italic" filename="instance_ufos/KantumruyPro-Italic.ufo" stylemapfamilyname="Kantumruy Pro" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="72"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro Medium Italic" familyname="Kantumruy Pro" stylename="Medium Italic" filename="instance_ufos/KantumruyPro-MediumItalic.ufo" stylemapfamilyname="Kantumruy Pro Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="108"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro SemiBold Italic" familyname="Kantumruy Pro" stylename="SemiBold Italic" filename="instance_ufos/KantumruyPro-SemiBoldItalic.ufo" stylemapfamilyname="Kantumruy Pro SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
-      <kerning/>
-      <info/>
     </instance>
     <instance name="Kantumruy Pro Bold Italic" familyname="Kantumruy Pro" stylename="Bold Italic" filename="instance_ufos/KantumruyPro-BoldItalic.ufo" stylemapfamilyname="Kantumruy Pro" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="170"/>
       </location>
-      <kerning/>
-      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>

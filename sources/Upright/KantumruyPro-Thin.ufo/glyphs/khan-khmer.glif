@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="khan-khmer" format="2">
-	<advance width="524"/>
 	<unicode hex="17D4"/>
+	<advance width="524"/>
 	<outline>
 		<contour>
 			<point x="400" y="0" type="line"/>

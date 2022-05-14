@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-	<advance width="453"/>
 	<unicode hex="006B"/>
-	<anchor x="191" y="680" name="top"/>
-	<anchor x="233" y="0" name="bottom"/>
+	<advance width="453"/>
 	<outline>
 		<contour>
 			<point x="493" y="500" type="line"/>
@@ -26,6 +24,8 @@
 			<point x="382" y="0" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="233" y="0"/>
+	<anchor name="top" x="191" y="680"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>

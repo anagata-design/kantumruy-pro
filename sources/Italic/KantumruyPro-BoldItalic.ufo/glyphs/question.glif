@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
-	<advance width="588"/>
 	<unicode hex="003F"/>
-	<anchor x="147.82" y="63.92" name="_center"/>
+	<advance width="588"/>
 	<outline>
 		<contour>
 			<point x="191" y="214" type="line"/>
@@ -43,13 +42,14 @@
 			<point x="183.71" y="-7.52"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="147.82" y="63.92"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>
@@ -64,7 +64,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

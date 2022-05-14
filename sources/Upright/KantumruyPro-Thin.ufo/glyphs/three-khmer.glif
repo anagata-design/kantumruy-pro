@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three-khmer" format="2">
-	<advance width="836"/>
 	<unicode hex="17E3"/>
+	<advance width="836"/>
 	<outline>
 		<contour>
 			<point x="129" y="-6" type="curve" smooth="yes"/>

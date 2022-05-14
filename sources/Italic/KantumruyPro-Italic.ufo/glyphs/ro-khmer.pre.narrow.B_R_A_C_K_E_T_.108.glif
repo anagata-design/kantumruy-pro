@@ -41,6 +41,12 @@
 		<dict>
 			<key>com.schriftgestaltung.Glyphs._originalLayerName</key>
 			<string>[108]</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
 		</dict>
 	</lib>
 </glyph>

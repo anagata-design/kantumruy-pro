@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-	<advance width="700"/>
 	<unicode hex="0044"/>
-	<anchor x="117" y="140" name="center"/>
-	<anchor x="294" y="0" name="ogonek"/>
-	<anchor x="418" y="660" name="top"/>
-	<anchor x="276" y="0" name="bottom"/>
+	<advance width="700"/>
 	<outline>
 		<contour>
 			<point x="14" y="0" type="line"/>
@@ -30,6 +26,10 @@
 			<point x="309" y="130" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="276" y="0"/>
+	<anchor name="center" x="117" y="140"/>
+	<anchor name="ogonek" x="294" y="0"/>
+	<anchor name="top" x="418" y="660"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

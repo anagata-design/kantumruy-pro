@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eSign-khmer" format="2">
-	<advance width="336"/>
 	<unicode hex="17C1"/>
+	<advance width="336"/>
 	<outline>
 		<contour>
 			<point x="131" y="-6" type="curve" smooth="yes"/>

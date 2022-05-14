@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cho_auSign-khmer" format="2">
 	<advance width="1574"/>
-	<anchor x="1014" y="606" name="top"/>
-	<anchor x="1253" y="606" name="topright"/>
-	<anchor x="1103" y="0" name="bottomright"/>
-	<anchor x="874" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="1389" y="504" type="line"/>
@@ -25,6 +21,10 @@
 		</contour>
 		<component base="cho_aaSign-khmer"/>
 	</outline>
+	<anchor name="bottom" x="874" y="0"/>
+	<anchor name="bottomright" x="1103" y="0"/>
+	<anchor name="top" x="1014" y="606"/>
+	<anchor name="topright" x="1253" y="606"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="triisap-khmer.small" format="2">
-	<advance width="0"/>
-	<anchor x="-358" y="780" name="top"/>
-	<anchor x="-131" y="780" name="topright"/>
-	<anchor x="-358" y="606" name="_top"/>
 	<outline>
 		<contour>
 			<point x="-576" y="652" type="line"/>
@@ -21,6 +17,9 @@
 			<point x="-616" y="720" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="-358" y="606"/>
+	<anchor name="top" x="-358" y="780"/>
+	<anchor name="topright" x="-131" y="780"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

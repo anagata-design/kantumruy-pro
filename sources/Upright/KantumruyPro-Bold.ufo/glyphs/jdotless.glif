@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jdotless" format="2">
-	<advance width="291"/>
 	<unicode hex="0237"/>
-	<anchor x="146" y="500" name="top"/>
+	<advance width="291"/>
 	<outline>
 		<contour>
 			<point x="37" y="-215" type="curve" smooth="yes"/>
@@ -23,6 +22,7 @@
 			<point x="-17" y="-215"/>
 		</contour>
 	</outline>
+	<anchor name="top" x="146" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

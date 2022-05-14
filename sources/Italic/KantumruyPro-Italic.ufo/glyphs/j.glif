@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-	<advance width="241"/>
 	<unicode hex="006A"/>
-	<anchor x="-40" y="-204" name="ogonek"/>
-	<anchor x="-71" y="-210" name="bottom"/>
-	<anchor x="219" y="697" name="top"/>
+	<advance width="241"/>
 	<outline>
 		<component base="jdotless"/>
 		<component base="tittle" xOffset="-8"/>
 	</outline>
+	<anchor name="bottom" x="-71" y="-210"/>
+	<anchor name="ogonek" x="-40" y="-204"/>
+	<anchor name="top" x="219" y="697"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.hints</key>

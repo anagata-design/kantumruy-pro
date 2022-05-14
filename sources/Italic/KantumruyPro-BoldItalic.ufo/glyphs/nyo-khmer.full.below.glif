@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyo-khmer.full.below" format="2">
-	<advance width="0"/>
-	<anchor x="-129" y="0" name="_bottomright"/>
-	<anchor x="-199" y="-258" name="bottomright"/>
-	<anchor x="-413" y="-258" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="-808" y="-264" type="curve" smooth="yes"/>
@@ -71,6 +67,9 @@
 			<point x="-494" y="-308"/>
 		</contour>
 	</outline>
+	<anchor name="_bottomright" x="-129" y="0"/>
+	<anchor name="bottom" x="-413" y="-258"/>
+	<anchor name="bottomright" x="-199" y="-258"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.category</key>

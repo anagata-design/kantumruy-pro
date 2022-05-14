@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jdotless" format="2">
-	<advance width="241"/>
 	<unicode hex="0237"/>
-	<anchor x="-40" y="-204" name="ogonek"/>
-	<anchor x="-71" y="-210" name="bottom"/>
-	<anchor x="174" y="500" name="top"/>
+	<advance width="241"/>
 	<outline>
 		<contour>
 			<point x="-65" y="-215" type="curve" smooth="yes"/>
@@ -25,6 +22,9 @@
 			<point x="-101" y="-215"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="-71" y="-210"/>
+	<anchor name="ogonek" x="-40" y="-204"/>
+	<anchor name="top" x="174" y="500"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

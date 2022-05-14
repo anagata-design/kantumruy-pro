@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
-	<advance width="541"/>
 	<unicode hex="00F8"/>
-	<anchor x="271" y="250" name="center"/>
-	<anchor x="361" y="9" name="ogonek"/>
-	<anchor x="271" y="496" name="top"/>
-	<anchor x="396" y="500" name="topright"/>
-	<anchor x="271" y="0" name="bottom"/>
+	<advance width="541"/>
 	<outline>
 		<component base="o"/>
 		<component base="slashlongcomb" xOffset="-14"/>
 	</outline>
+	<anchor name="bottom" x="271" y="0"/>
+	<anchor name="center" x="271" y="250"/>
+	<anchor name="ogonek" x="361" y="9"/>
+	<anchor name="top" x="271" y="496"/>
+	<anchor name="topright" x="396" y="500"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

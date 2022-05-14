@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="euro" format="2">
-	<advance width="693"/>
 	<unicode hex="20AC"/>
+	<advance width="693"/>
 	<outline>
 		<contour>
 			<point x="47" y="354" type="line"/>
@@ -34,7 +34,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>place</key>

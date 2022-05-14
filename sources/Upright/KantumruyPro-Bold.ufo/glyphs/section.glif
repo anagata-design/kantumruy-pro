@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="section" format="2">
-	<advance width="611"/>
 	<unicode hex="00A7"/>
+	<advance width="611"/>
 	<outline>
 		<contour>
 			<point x="414" y="99" type="line"/>
@@ -82,7 +82,7 @@
 			<array>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
@@ -102,7 +102,7 @@
 				</dict>
 				<dict>
 					<key>horizontal</key>
-					<integer>1</integer>
+					<true/>
 					<key>options</key>
 					<integer>0</integer>
 					<key>origin</key>
