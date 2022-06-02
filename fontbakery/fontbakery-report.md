@@ -15,16 +15,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -103,16 +103,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -189,16 +189,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -284,16 +284,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -368,16 +368,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -454,16 +454,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -538,16 +538,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -622,16 +622,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -701,16 +701,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -805,16 +805,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -889,16 +889,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -991,16 +991,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1082,16 +1082,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1177,16 +1177,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.numr
+	- two.dnom
 	- one.dnom
-	- five.dnom
-	- three.dnom
-	- NULL
-	- zero.numr
-	- acutecomb.asc
 	- daggersuperior
-	- nine.numr
-	- four.numr 
+	- nine.dnom
+	- hookabovecomb.case
+	- eight.numr
+	- four.numr
+	- one.numr
+	- gravecomb.asc
+	- six.dnom 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
