@@ -15,16 +15,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -106,16 +106,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni179817C5
-	* k
-	* arrowupdn
-	* daggerdbl
-	* uni179417C5
-	* Eth and 49 more.
+	* Oslash
+	* dagger
+	* uni179817B6
+	* uni179E17C5.post_
+	* K
+	* plusminus
+	* uni17A217C5
+	* numbersign
+	* uni179017C5
+	* dollar and 49 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -126,16 +126,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -206,8 +206,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* dollar
-	* multiply and numbersign
+	* numbersign
+	* dollar and multiply
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -216,16 +216,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -291,14 +291,14 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* Oslash
+	* uni17A217C5
+	* numbersign
+	* dollar
 	* emptyset
 	* daggerdbl
-	* dollar
-	* currency
-	* Oslash
-	* multiply
 	* Euro
-	* numbersign and uni17A217C5
+	* currency and multiply
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -307,16 +307,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -382,16 +382,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni179817C5
-	* k
-	* arrowupdn
-	* daggerdbl
-	* uni179217C5
-	* uni179417C5.post_ and 81 more.
+	* uni178E17C5
+	* Oslash
+	* dagger
+	* uni179F17B6
+	* uni179817B6
+	* uni179E17C5.post_
+	* uni179917C5.post_
+	* uni179517B6
+	* plusminus
+	* uni179717C5 and 81 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -409,16 +409,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -493,16 +493,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -593,16 +593,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni178017C5
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni2196
-	* uni179817C5
-	* k
-	* Q
-	* arrowupdn and 103 more.
+	* uni178E17C5
+	* Oslash
+	* dagger
+	* uni179F17B6
+	* uni179817B6
+	* uni179E17C5.post_
+	* uni17C5
+	* uni179917C5.post_
+	* uni179517B6
+	* K and 103 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -613,16 +613,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -693,16 +693,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni179817C5
-	* k
-	* arrowupdn
-	* daggerdbl
-	* uni179417C5
-	* Eth and 47 more.
+	* Oslash
+	* dagger
+	* uni179817B6
+	* uni179E17C5.post_
+	* plusminus
+	* uni17A217C5
+	* numbersign
+	* uni179017C5
+	* dollar
+	* uni178917C5.less and 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -713,16 +713,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -804,16 +804,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -904,16 +904,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -988,16 +988,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni178017C5
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni2196
-	* uni179817C5
-	* k
-	* arrowupdn
-	* daggerdbl and 103 more.
+	* uni178E17C5
+	* Oslash
+	* dagger
+	* uni179F17B6
+	* uni179817B6
+	* uni179E17C5.post_
+	* uni17C5
+	* uni179917C5.post_
+	* uni179517B6
+	* plusminus and 103 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -1008,16 +1008,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1104,16 +1104,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1188,16 +1188,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni178017C5
-	* emptyset
-	* uni179E17B6
-	* uni179E17C5
-	* ampersand
-	* uni179817C5
-	* k
-	* arrowupdn
-	* daggerdbl
-	* uni179217C5 and 84 more.
+	* uni178E17C5
+	* Oslash
+	* dagger
+	* uni179F17B6
+	* uni179817B6
+	* uni179E17C5.post_
+	* uni179917C5.post_
+	* uni179517B6
+	* K
+	* plusminus and 84 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -1215,16 +1215,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1295,14 +1295,14 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* emptyset
-	* ampersand
-	* daggerdbl
-	* dollar
-	* currency
 	* Oslash
+	* uni17A217C5
+	* numbersign
+	* dollar
+	* emptyset
+	* daggerdbl
 	* Euro
-	* numbersign and uni17A217C5
+	* currency and ampersand
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -1311,16 +1311,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- four.dnom
-	- five.numr
-	- daggersuperior
-	- two.dnom
-	- three.dnom
-	- six.dnom
-	- seven.dnom
+	- zero.dnom
+	- one.dnom
 	- five.dnom
+	- daggerdblsuperior
+	- two.numr
 	- zero.numr
-	- zero.dnom 
+	- seven.dnom
+	- acutecomb.asc
+	- hookabovecomb.case
+	- six.numr 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
